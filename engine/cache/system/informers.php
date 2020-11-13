@@ -1,0 +1,1 @@
+{"1":{"id":"1","tag":"dle","descr":"Новости с Яндекса","category":"0","url":"https://news.yandex.ru/index.rss","template":"informer","news_max":"3","tmax":"0","dmax":"200","approve":"1","rss_date_format":"j F Y H:i"}}

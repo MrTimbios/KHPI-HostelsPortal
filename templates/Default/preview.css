@@ -1,0 +1,350 @@
+/* =========== © 2016 Centroarts.com =========== */
+@import url(../../templates/Red/fonts/font.css);
+
+/* Сброс */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td,article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video { margin: 0; padding: 0; border: 0; font-size: 100%; font: inherit; vertical-align: baseline } article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block } body { line-height: 1 } ol, ul { list-style: none } blockquote, q { quotes: none } blockquote:before, blockquote:after, q:before, q:after { content: ''; content: none } table { border-collapse: collapse; border-spacing: 0 }
+article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary { display: block; }
+
+html, html a { -webkit-font-smoothing: antialiased; }
+
+/* Настройка основной типографии */
+body, select, input, textarea, button {
+	font: normal 15px/1.5 "GothaPro", Arial, Helvetica, sans-serif;
+	letter-spacing: 0.008em;
+	color: #444;
+	outline: none;
+}
+	a { 
+		outline: none;
+		color: #ff485b;
+		text-decoration: none;
+	}
+	a:hover { text-decoration: underline; }
+	a img { border: 0 none; }
+	a > img { vertical-align: bottom; }
+
+/* Заголовки H1-6 */
+h1,h2,h3,h4,h5,.h1,.h2,.h3,.h4,.h5 {
+	margin: 2em 0 .8em 0;
+	letter-spacing: -0.01em;
+	line-height: 1.35em;
+	font-weight: bold;
+	text-rendering: optimizeLegibility;
+}
+	h1, .h1 { font-size: 2em; }
+	h2, .h2 { font-size: 1.9em; }
+	h3, .h3 { font-size: 1.6em; }
+	h4, .h4 { font-size: 1.5em; }
+	h5, .h5 { font-size: 1.2em; }
+
+	/* Частые стили */
+	.strike { text-decoration: line-through; }
+	.nobr { white-space: nowrap; }
+	.hide { display: none; }
+	.title_hide { left: -9999px; position: absolute; top: -9999px; overflow: hidden; width: 0; height: 0; }
+	.uline { text-decoration: underline; }
+	.strike { text-decoration: line-through; }
+	.ultrabold { font-weight: 900; text-transform: uppercase; }
+
+	.justify { text-align: justify; }
+	.center { text-align: center; }
+	.left { float: left; }
+	.right { float: right; }
+	fieldset { border: 1px solid rgba(0,0,0,0.1); padding: 15px; margin-bottom: 1.5em; }
+	fieldset legend { font-weight: bold; }
+
+	.grey { color: #94999e; }
+	.grey a { color: inherit; }
+	.grey a:hover, a.grey:hover { color: #444; }
+
+	.red { color: #ff485b; }
+
+	sup { vertical-align: super; font-size: smaller; } 
+	.over { display: inline-block; vertical-align: middle; max-width: 100%; white-space: nowrap; text-overflow: ellipsis; overflow: hidden; }
+	a .over { cursor: pointer; }
+
+	.cover {
+		background-position: 50% 50%;
+		background-repeat: no-repeat;
+		-webkit-background-size: cover;
+		background-size: cover;
+	}
+
+/* Настройка других элементов */
+ul { padding-left: 25px; list-style: disc outside; }
+ol { padding-left: 25px; list-style: decimal outside; }
+
+p,dl,dd,pre,ul,ol,blockquote,table,fieldset { margin-bottom: 1.5em; }
+	strong, b { font-weight: bold }
+	em, cite, i { font-style: italic }
+	caption { text-align: left }
+	th, td { vertical-align: middle }
+	small, .small { font-size: .9em; }
+	hr { height: 0; border: 0; border-top: 2px solid #e3e4e6; -moz-box-sizing: content-box; box-sizing: content-box; margin: 20px 0; }
+
+	.clr { clear: both }
+	.clrfix:after { clear: both; content: ""; display: table; }
+
+/* --- Деление на колонки --- */
+@media only screen and (min-width: 701px) {
+	.grid_1_2, .grid_1_4, .grid_3_4 {
+		float: left; margin-right: 4%;
+		-moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+	}
+	.grid_1_2.right, .grid_1_4.right, .grid_3_4.right { float: right; }
+	.grid_1_2.none, .grid_1_4.none, .grid_3_4.none { float: none; margin-right: 0; }
+	.grid_1_2 { width: 48%; }
+	.grid_1_4 { width: 22%; }
+	.grid_3_4 { width: 74%; } 
+	.grid_last { margin-right: 0; }
+
+	.grid_list:after { content: ""; display: block; clear: both; }
+	.grid_list > .grid_1_2:last-child,
+	.grid_list > .grid_1_4:last-child,
+	.grid_list.grid_3_4:last-child { margin-right: 0; }
+}
+@media only screen and (max-width: 700px) {
+	.grid_1_2.right, .grid_1_4.right, .grid_3_4.right { float: none; }
+}
+
+/* --- Layout --- */
+body { background: #ededed; }
+
+/* --- Настройка кнопок --- */
+.btn, .bbcodes, .ui-button {
+	border: 0 none;
+	display: inline-block;
+	vertical-align: middle;
+	cursor: pointer;
+	height: 41px;
+	font-size: .94em;
+	border-radius: 2px;
+	line-height: 21px;
+	outline: none;
+	color: #fff !important;
+	padding: 10px 22px;
+	text-decoration: none !important;
+	box-shadow: 0 1px 2px 0 rgba(0,0,0,0.14); -webkit-box-shadow: 0 1px 2px 0 rgba(0,0,0,0.14);
+
+	background-color: #ff485b;
+	background-image: -webkit-linear-gradient(top, #f45068 0%, #f93f59 100%);
+	background-image: -moz-linear-gradient(top, #f45068 0%, #f93f59 100%);
+	background-image: -o-linear-gradient(top, #f45068 0%, #f93f59 100%);
+	background-image: -ms-linear-gradient(top, #f45068 0%, #f93f59 100%);
+	background-image: linear-gradient(top, #f45068 0%, #f93f59 100%);
+
+	-moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+}
+
+	.ui-button { padding: 4px 12px; height: 30px; font-size: 11px; margin: 2px; }
+
+	.btn:hover, .bbcodes:hover, .ui-button:hover {
+		background-color: #ff4e6b;
+		background-image: -webkit-linear-gradient(top, #ff5974 0%, #ff4563 100%);
+		background-image: -moz-linear-gradient(top, #ff5974 0%, #ff4563 100%);
+		background-image: -o-linear-gradient(top, #ff5974 0%, #ff4563 100%);
+		background-image: -ms-linear-gradient(top, #ff5974 0%, #ff4563 100%);
+		background-image: linear-gradient(top, #ff5974 0%, #ff4563 100%);
+	}
+	.btn:active, .bbcodes:active, .ui-button:active {
+		background: #f93e59;
+		box-shadow: inset 0 1px 4px 0 rgba(0,0,0,0.14); -webkit-box-shadow: inset 0 1px 4px 0 rgba(0,0,0,0.14);
+	}
+	.btn > .icon { fill: #fff; }
+
+	.btn_white, .btn_white:hover {
+		color: #444 !important;
+		background-color: #f7f7f7;
+		background-image: -webkit-linear-gradient(top, #f9f9f9 0%, #f4f4f4 100%);
+		background-image: -moz-linear-gradient(top, #f9f9f9 0%, #f4f4f4 100%);
+		background-image: -o-linear-gradient(top, #f9f9f9 0%, #f4f4f4 100%);
+		background-image: -ms-linear-gradient(top, #f9f9f9 0%, #f4f4f4 100%);
+		background-image: linear-gradient(top, #f9f9f9 0%, #f4f4f4 100%);
+	}
+	.btn_white:hover { color: #ff485b !important; }
+	.btn_white:active { background: #eaeaea; }
+
+	.btn_border {
+		background: none;
+		color: #444 !important;
+		box-shadow: inset 0 0 0 1px rgba(0,0,0,0.14); -webkit-box-shadow: inset 0 0 0 1px rgba(0,0,0,0.14);
+	}
+	.btn_border:hover {
+		background: none;
+		color: #ff485b !important;
+	}
+	.btn_border:active { background: #eaeaea; }
+
+/*--- Цитаты, Спойлеры, Код  ---*/
+.scriptcode, .title_quote,
+	.title_spoiler, .text_spoiler { padding: 15px 20px; background: #fff; border: 1px solid #d9dcde; }
+
+	.title_quote { margin-top: 2px; font-weight: bold; }
+	.quote, blockquote {
+		padding: 1em 1em 1em 3em;
+		margin: 1.5em 0;
+		border: 0 solid #444;
+		border-width: 3px 0;
+		font-family: Georgia, serif; font-style: italic;
+		font-size: 1.3em;
+		position: relative;
+	}
+	.quote:before, blockquote:before {
+		position: absolute;
+		left: 0; top: 0;
+		content: "\0022";
+		font-weight: bold;
+		font-size: 4em;
+		margin-left: -.1em;
+	}
+	.title_spoiler { margin-top: 2px; }
+	.text_spoiler { margin-bottom: 2px; }
+	.title_spoiler img { vertical-align: middle; margin: -1px 0 0 !important }
+	.scriptcode { color: #4c6d0f; text-align: left; font-family: "Courier New" }
+	.title_spoiler { font-weight: normal; }
+	.text_spoiler { border-top: 0; text-align: justify; }
+
+	.hide { background-color: #f0f0f0; padding: 5px; color: #4c6d0f; margin: 0 0 1em 0 }
+	.hide a { text-decoration: underline; } .hide a:hover { text-decoration: none }
+	
+.wrp { max-width: 800px; padding: 0 20px; margin: 0 auto; }
+.story {
+		background-color: #fff;
+		padding: 50px 0;
+	}
+
+	.story > .wrp:after { clear: both; display: block; content: ""; }
+	.story > .wrp { position: relative; }
+
+	/* Настройка заголовка */
+	.story .head { margin-bottom: 1.5em; overflow: hidden; }
+		.story .head .title { margin-top: -.2em; margin-bottom: 0; }
+		.story .head .title > a {
+			display: block;
+			color: inherit;
+			text-decoration: none !important;
+		}
+		.story .head .title > a:hover {
+			color: #969fa7;
+			-webkit-transition: color ease .2s; transition: color ease .2s;
+		}
+
+	/* Данные новости */
+	.story_info { float: right; margin-right: 0; font-size: .92em; }
+
+	/* Содержимое новости */
+	.story.lefticons .text { margin-left: 60px; }
+	.story .more { margin-top: 1.5em; }
+
+		.story .text:after { content: ""; display: block; clear: both; }
+		.story .text > img[style*="left"],
+		.story .text > .highslide img[style*="left"] { margin: 4px 20px 20px 0; }
+		.story .text > img[style*="right"],
+		.story .text > .highslide img[style*="right"] { margin: 4px 0 20px 20px; }
+		.story .text img { max-width: 100%; }
+
+	/* Вложения */
+	.attachment > a, .attachment_error {
+		border: 1px solid #d9dcde;
+		border-radius: 2px;
+		padding: 10px 20px;
+		margin-top: 10px;
+		color: inherit;
+		display: block;
+		font-size: .9em;
+		text-decoration: none !important;
+	}
+		.attachment > a:hover { color: #ff485b; }
+		.attachment > a > .icon { float: right; margin: 3px 0 0 15px; }
+
+	/* Блок под полной новостью */
+	.fullstory_foot { background-color: #f8f8f8; }
+/*---Смайлы---*/
+
+.emoji {
+    border: none;
+    vertical-align: middle;
+    width: 22px;
+    height: 22px;
+}
+
+/*---показ оригинальной картинки загруженной на сайт из уменьшенной копии---*/
+.xfieldimagegallery {
+  margin: 0;
+  padding: 0;  
+  list-style: none;
+  clear: both;
+}
+
+.xfieldimagegallery li {
+	list-style: none;
+	margin: 0;
+	padding: 0;  
+}
+
+.xfieldimagegallery li img {
+  float: left;
+  margin-right: 5px;
+  border: 5px solid #fff;
+  width: 100px;
+  height: 100px;
+  transition: box-shadow 0.5s ease;
+}
+
+.xfieldimagegallery li img:hover {
+  box-shadow: 0px 0px 7px rgba(0,0,0,0.4);
+}
+
+.highslide-wrapper, .highslide-outline { background: #fff }
+	.highslide-image { border: 2px solid #fff }
+	.highslide-active-anchor { visibility: hidden } 
+	.highslide-active-anchor img { visibility: hidden }
+	.highslide-dimming { background-color: black }
+	.highslide-html { background-color: white }
+	.highslide-loading { display: block; color: white; font-size: 9px; font-weight: bold; text-decoration: none; padding: 3px; border: 1px solid white; background-color: black }
+	a.highslide-full-expand { background: url(../dleimages/fullexpand.gif) no-repeat; display: block; margin: 0 10px 10px 0; width: 34px; height: 34px }
+	.highslide-display-block { display: block }
+	.highslide-display-none { display: none }
+	.highslide-caption { display: none; padding: 5px; background: white }
+	.highslide-controls { width: 195px; height: 40px; background: url(../../../engine/classes/highslide/graphics/controlbar-black-border.gif) no-repeat 0 -90px; margin-right: 15px; margin-bottom: 10px; margin-top: 10px }
+	.highslide-controls ul { position: relative; left: 15px; height: 40px; list-style: none; margin: 0; padding: 0; background: url(../../../engine/classes/highslide/graphics/controlbar-black-border.gif) no-repeat 100% -90px }
+	.highslide-controls li { float: left; padding: 5px 0; }
+	.highslide-controls a { background: url(../../../engine/classes/highslide/graphics/controlbar-black-border.gif); display: block; float: left; height: 30px; width: 30px; outline: none }
+	.highslide-controls a.disabled { cursor: default }
+	.highslide-controls a span { display: none }
+ 
+/*---The CSS sprites for the controlbar---*/
+.highslide-controls .highslide-previous a { background-position: 0 0 }
+	.highslide-controls .highslide-previous a:hover { background-position: 0 -30px }
+	.highslide-controls .highslide-previous a.disabled { background-position: 0 -60px !important }
+	.highslide-controls .highslide-play a { background-position: -30px 0 }
+	.highslide-controls .highslide-play a:hover { background-position: -30px -30px }
+	.highslide-controls .highslide-play a.disabled { background-position: -30px -60px !important }
+	.highslide-controls .highslide-pause a { background-position: -60px 0 }
+	.highslide-controls .highslide-pause a:hover { background-position: -60px -30px }
+	.highslide-controls .highslide-next a { background-position: -90px 0 }
+	.highslide-controls .highslide-next a:hover { background-position: -90px -30px }
+	.highslide-controls .highslide-next a.disabled { background-position: -90px -60px !important }
+	.highslide-controls .highslide-move a { background-position: -120px 0 }
+	.highslide-controls .highslide-move a:hover { background-position: -120px -30px }
+	.highslide-controls .highslide-full-expand a { background-position: -150px 0 }
+	.highslide-controls .highslide-full-expand a:hover { background-position: -150px -30px }
+	.highslide-controls .highslide-full-expand a.disabled { background-position: -150px -60px !important }
+	.highslide-controls .highslide-close a { background-position: -180px 0 }
+	.highslide-controls .highslide-close a:hover { background-position: -180px -30px }
+
+/*---Подсветка кода в теге [code]---*/
+pre code { display: block; padding: 0.5em; background: #f9fafa; border: 1px solid #dce7e7; overflow:auto; white-space: pre; }
+	pre .comment, pre .template_comment, pre .diff .header, pre .doctype, pre .lisp .string, pre .javadoc { padding: 0; margin: 0; border:none; box-shadow: none; background-color: inherit; color: #93a1a1; font-style: italic; }
+	pre .keyword, pre .css .rule .keyword, pre .winutils, pre .javascript .title, pre .method, pre .addition, pre .css .tag, pre .lisp .title { color: #859900; }
+	pre .number, pre .command, pre .string, pre .tag .value, pre .phpdoc, pre .tex .formula, pre .regexp, pre .hexcolor { color: #2aa198; }
+	pre .title, pre .localvars, pre .function .title, pre .chunk, pre .decorator,
+	pre .builtin, pre .built_in, pre .lisp .title, pre .identifier, pre .title .keymethods, pre .id { color: #268bd2; }
+	pre .tag .title, pre .rules .property, pre .django .tag .keyword { font-weight: bold;font-size: 1.08em !important;  }
+	pre .attribute, pre .variable, pre .instancevar, pre .lisp .body, pre .smalltalk .number, pre .constant, pre .class .title,
+	pre .parent, pre .haskell .label { color: #b58900; }
+	pre .preprocessor, pre .pi, pre .shebang, pre .symbol,
+	pre .diff .change, pre .special, pre .keymethods, pre .attr_selector, pre .important, pre .subst, pre .cdata { color: #cb4b16; }
+	pre .deletion { color: #dc322f; }
+	pre .tex .formula { background: #eee8d5; }
+	pre .comment:hover {background-color: inherit;box-shadow: none;}

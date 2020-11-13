@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'GothaPro';
+    src: url('GothaProBla.eot');
+    src: local('☺'), url('GothaProBla.woff') format('woff'), url('GothaProBla.ttf') format('truetype'), url('GothaProBla.svg') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GothaPro';
+    src: url('GothaProBlaIta.eot');
+    src: local('☺'), url('GothaProBlaIta.woff') format('woff'), url('GothaProBlaIta.ttf') format('truetype'), url('GothaProBlaIta.svg') format('svg');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'GothaPro';
+    src: url('GothaProBol.eot');
+    src: local('☺'), url('GothaProBol.woff') format('woff'), url('GothaProBol.ttf') format('truetype'), url('GothaProBol.svg') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GothaPro';
+    src: url('GothaProBolIta.eot');
+    src: local('☺'), url('GothaProBolIta.woff') format('woff'), url('GothaProBolIta.ttf') format('truetype'), url('GothaProBolIta.svg') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'GothaPro';
+    src: url('GothaProIta.eot');
+    src: local('☺'), url('GothaProIta.woff') format('woff'), url('GothaProIta.ttf') format('truetype'), url('GothaProIta.svg') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'GothaPro';
+    src: url('GothaProReg.eot');
+    src: local('☺'), url('GothaProReg.woff') format('woff'), url('GothaProReg.ttf') format('truetype'), url('GothaProReg.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

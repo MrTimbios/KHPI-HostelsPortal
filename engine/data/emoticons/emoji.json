@@ -1,0 +1,6349 @@
+[
+    {
+        "category": "smileys_people",
+        "emoji": [
+            {
+                "code": "1F600",
+                "name": "grinning"
+            },
+            {
+                "code": "1F601",
+                "name": "grin"
+            },
+            {
+                "code": "1F602",
+                "name": "joy"
+            },
+            {
+                "code": "1F923",
+                "name": "rolling_on_the_floor_laughing"
+            },
+            {
+                "code": "1F603",
+                "name": "smiley"
+            },
+            {
+                "code": "1F604",
+                "name": "smile"
+            },
+            {
+                "code": "1F605",
+                "name": "sweat_smile"
+            },
+            {
+                "code": "1F606",
+                "name": "laughing"
+            },
+            {
+                "code": "1F609",
+                "name": "wink"
+            },
+            {
+                "code": "1F60A",
+                "name": "blush"
+            },
+            {
+                "code": "1F60B",
+                "name": "yum"
+            },
+            {
+                "code": "1F60E",
+                "name": "sunglasses"
+            },
+            {
+                "code": "1F60D",
+                "name": "heart_eyes"
+            },
+            {
+                "code": "1F618",
+                "name": "kissing_heart"
+            },
+            {
+                "code": "1F970",
+                "name": "smiling_face_with_3_hearts"
+            },
+            {
+                "code": "1F617",
+                "name": "kissing"
+            },
+            {
+                "code": "1F619",
+                "name": "kissing_smiling_eyes"
+            },
+            {
+                "code": "1F61A",
+                "name": "kissing_closed_eyes"
+            },
+            {
+                "code": "263A-FE0F",
+                "name": "relaxed"
+            },
+            {
+                "code": "1F642",
+                "name": "slightly_smiling_face"
+            },
+            {
+                "code": "1F917",
+                "name": "hugging_face"
+            },
+            {
+                "code": "1F929",
+                "name": "star-struck"
+            },
+            {
+                "code": "1F914",
+                "name": "thinking_face"
+            },
+            {
+                "code": "1F928",
+                "name": "face_with_raised_eyebrow"
+            },
+            {
+                "code": "1F610",
+                "name": "neutral_face"
+            },
+            {
+                "code": "1F611",
+                "name": "expressionless"
+            },
+            {
+                "code": "1F636",
+                "name": "no_mouth"
+            },
+            {
+                "code": "1F644",
+                "name": "face_with_rolling_eyes"
+            },
+            {
+                "code": "1F60F",
+                "name": "smirk"
+            },
+            {
+                "code": "1F623",
+                "name": "persevere"
+            },
+            {
+                "code": "1F625",
+                "name": "disappointed_relieved"
+            },
+            {
+                "code": "1F62E",
+                "name": "open_mouth"
+            },
+            {
+                "code": "1F910",
+                "name": "zipper_mouth_face"
+            },
+            {
+                "code": "1F62F",
+                "name": "hushed"
+            },
+            {
+                "code": "1F62A",
+                "name": "sleepy"
+            },
+            {
+                "code": "1F62B",
+                "name": "tired_face"
+            },
+            {
+                "code": "1F634",
+                "name": "sleeping"
+            },
+            {
+                "code": "1F60C",
+                "name": "relieved"
+            },
+            {
+                "code": "1F61B",
+                "name": "stuck_out_tongue"
+            },
+            {
+                "code": "1F61C",
+                "name": "stuck_out_tongue_winking_eye"
+            },
+            {
+                "code": "1F61D",
+                "name": "stuck_out_tongue_closed_eyes"
+            },
+            {
+                "code": "1F924",
+                "name": "drooling_face"
+            },
+            {
+                "code": "1F612",
+                "name": "unamused"
+            },
+            {
+                "code": "1F613",
+                "name": "sweat"
+            },
+            {
+                "code": "1F614",
+                "name": "pensive"
+            },
+            {
+                "code": "1F615",
+                "name": "confused"
+            },
+            {
+                "code": "1F643",
+                "name": "upside_down_face"
+            },
+            {
+                "code": "1F911",
+                "name": "money_mouth_face"
+            },
+            {
+                "code": "1F632",
+                "name": "astonished"
+            },
+            {
+                "code": "2639-FE0F",
+                "name": "white_frowning_face"
+            },
+            {
+                "code": "1F641",
+                "name": "slightly_frowning_face"
+            },
+            {
+                "code": "1F616",
+                "name": "confounded"
+            },
+            {
+                "code": "1F61E",
+                "name": "disappointed"
+            },
+            {
+                "code": "1F61F",
+                "name": "worried"
+            },
+            {
+                "code": "1F624",
+                "name": "triumph"
+            },
+            {
+                "code": "1F622",
+                "name": "cry"
+            },
+            {
+                "code": "1F62D",
+                "name": "sob"
+            },
+            {
+                "code": "1F626",
+                "name": "frowning"
+            },
+            {
+                "code": "1F627",
+                "name": "anguished"
+            },
+            {
+                "code": "1F628",
+                "name": "fearful"
+            },
+            {
+                "code": "1F629",
+                "name": "weary"
+            },
+            {
+                "code": "1F92F",
+                "name": "exploding_head"
+            },
+            {
+                "code": "1F62C",
+                "name": "grimacing"
+            },
+            {
+                "code": "1F630",
+                "name": "cold_sweat"
+            },
+            {
+                "code": "1F631",
+                "name": "scream"
+            },
+            {
+                "code": "1F975",
+                "name": "hot_face"
+            },
+            {
+                "code": "1F976",
+                "name": "cold_face"
+            },
+            {
+                "code": "1F633",
+                "name": "flushed"
+            },
+            {
+                "code": "1F92A",
+                "name": "zany_face"
+            },
+            {
+                "code": "1F635",
+                "name": "dizzy_face"
+            },
+            {
+                "code": "1F621",
+                "name": "rage"
+            },
+            {
+                "code": "1F620",
+                "name": "angry"
+            },
+            {
+                "code": "1F92C",
+                "name": "face_with_symbols_on_mouth"
+            },
+            {
+                "code": "1F637",
+                "name": "mask"
+            },
+            {
+                "code": "1F912",
+                "name": "face_with_thermometer"
+            },
+            {
+                "code": "1F915",
+                "name": "face_with_head_bandage"
+            },
+            {
+                "code": "1F922",
+                "name": "nauseated_face"
+            },
+            {
+                "code": "1F92E",
+                "name": "face_vomiting"
+            },
+            {
+                "code": "1F927",
+                "name": "sneezing_face"
+            },
+            {
+                "code": "1F607",
+                "name": "innocent"
+            },
+            {
+                "code": "1F920",
+                "name": "face_with_cowboy_hat"
+            },
+            {
+                "code": "1F973",
+                "name": "partying_face"
+            },
+            {
+                "code": "1F974",
+                "name": "woozy_face"
+            },
+            {
+                "code": "1F97A",
+                "name": "pleading_face"
+            },
+            {
+                "code": "1F925",
+                "name": "lying_face"
+            },
+            {
+                "code": "1F92B",
+                "name": "shushing_face"
+            },
+            {
+                "code": "1F92D",
+                "name": "face_with_hand_over_mouth"
+            },
+            {
+                "code": "1F9D0",
+                "name": "face_with_monocle"
+            },
+            {
+                "code": "1F913",
+                "name": "nerd_face"
+            },
+            {
+                "code": "1F608",
+                "name": "smiling_imp"
+            },
+            {
+                "code": "1F47F",
+                "name": "imp"
+            },
+            {
+                "code": "1F921",
+                "name": "clown_face"
+            },
+            {
+                "code": "1F479",
+                "name": "japanese_ogre"
+            },
+            {
+                "code": "1F47A",
+                "name": "japanese_goblin"
+            },
+            {
+                "code": "1F480",
+                "name": "skull"
+            },
+            {
+                "code": "2620-FE0F",
+                "name": "skull_and_crossbones"
+            },
+            {
+                "code": "1F47B",
+                "name": "ghost"
+            },
+            {
+                "code": "1F47D",
+                "name": "alien"
+            },
+            {
+                "code": "1F47E",
+                "name": "space_invader"
+            },
+            {
+                "code": "1F916",
+                "name": "robot_face"
+            },
+            {
+                "code": "1F4A9",
+                "name": "hankey"
+            },
+            {
+                "code": "1F63A",
+                "name": "smiley_cat"
+            },
+            {
+                "code": "1F638",
+                "name": "smile_cat"
+            },
+            {
+                "code": "1F639",
+                "name": "joy_cat"
+            },
+            {
+                "code": "1F63B",
+                "name": "heart_eyes_cat"
+            },
+            {
+                "code": "1F63C",
+                "name": "smirk_cat"
+            },
+            {
+                "code": "1F63D",
+                "name": "kissing_cat"
+            },
+            {
+                "code": "1F640",
+                "name": "scream_cat"
+            },
+            {
+                "code": "1F63F",
+                "name": "crying_cat_face"
+            },
+            {
+                "code": "1F63E",
+                "name": "pouting_cat"
+            },
+            {
+                "code": "1F648",
+                "name": "see_no_evil"
+            },
+            {
+                "code": "1F649",
+                "name": "hear_no_evil"
+            },
+            {
+                "code": "1F64A",
+                "name": "speak_no_evil"
+            },
+            {
+                "code": "1F476",
+                "name": "baby"
+            },
+            {
+                "code": "1F9D2",
+                "name": "child"
+            },
+            {
+                "code": "1F466",
+                "name": "boy"
+            },
+            {
+                "code": "1F467",
+                "name": "girl"
+            },
+            {
+                "code": "1F9D1",
+                "name": "adult"
+            },
+            {
+                "code": "1F468",
+                "name": "man"
+            },
+            {
+                "code": "1F469",
+                "name": "woman"
+            },
+            {
+                "code": "1F9D3",
+                "name": "older_adult"
+            },
+            {
+                "code": "1F474",
+                "name": "older_man"
+            },
+            {
+                "code": "1F475",
+                "name": "older_woman"
+            },
+            {
+                "code": "1F468-200D-2695-FE0F",
+                "name": "male-doctor"
+            },
+            {
+                "code": "1F469-200D-2695-FE0F",
+                "name": "female-doctor"
+            },
+            {
+                "code": "1F468-200D-1F393",
+                "name": "male-student"
+            },
+            {
+                "code": "1F469-200D-1F393",
+                "name": "female-student"
+            },
+            {
+                "code": "1F468-200D-1F3EB",
+                "name": "male-teacher"
+            },
+            {
+                "code": "1F469-200D-1F3EB",
+                "name": "female-teacher"
+            },
+            {
+                "code": "1F468-200D-2696-FE0F",
+                "name": "male-judge"
+            },
+            {
+                "code": "1F469-200D-2696-FE0F",
+                "name": "female-judge"
+            },
+            {
+                "code": "1F468-200D-1F33E",
+                "name": "male-farmer"
+            },
+            {
+                "code": "1F469-200D-1F33E",
+                "name": "female-farmer"
+            },
+            {
+                "code": "1F468-200D-1F373",
+                "name": "male-cook"
+            },
+            {
+                "code": "1F469-200D-1F373",
+                "name": "female-cook"
+            },
+            {
+                "code": "1F468-200D-1F527",
+                "name": "male-mechanic"
+            },
+            {
+                "code": "1F469-200D-1F527",
+                "name": "female-mechanic"
+            },
+            {
+                "code": "1F468-200D-1F3ED",
+                "name": "male-factory-worker"
+            },
+            {
+                "code": "1F469-200D-1F3ED",
+                "name": "female-factory-worker"
+            },
+            {
+                "code": "1F468-200D-1F4BC",
+                "name": "male-office-worker"
+            },
+            {
+                "code": "1F469-200D-1F4BC",
+                "name": "female-office-worker"
+            },
+            {
+                "code": "1F468-200D-1F52C",
+                "name": "male-scientist"
+            },
+            {
+                "code": "1F469-200D-1F52C",
+                "name": "female-scientist"
+            },
+            {
+                "code": "1F468-200D-1F4BB",
+                "name": "male-technologist"
+            },
+            {
+                "code": "1F469-200D-1F4BB",
+                "name": "female-technologist"
+            },
+            {
+                "code": "1F468-200D-1F3A4",
+                "name": "male-singer"
+            },
+            {
+                "code": "1F469-200D-1F3A4",
+                "name": "female-singer"
+            },
+            {
+                "code": "1F468-200D-1F3A8",
+                "name": "male-artist"
+            },
+            {
+                "code": "1F469-200D-1F3A8",
+                "name": "female-artist"
+            },
+            {
+                "code": "1F468-200D-2708-FE0F",
+                "name": "male-pilot"
+            },
+            {
+                "code": "1F469-200D-2708-FE0F",
+                "name": "female-pilot"
+            },
+            {
+                "code": "1F468-200D-1F680",
+                "name": "male-astronaut"
+            },
+            {
+                "code": "1F469-200D-1F680",
+                "name": "female-astronaut"
+            },
+            {
+                "code": "1F468-200D-1F692",
+                "name": "male-firefighter"
+            },
+            {
+                "code": "1F469-200D-1F692",
+                "name": "female-firefighter"
+            },
+            {
+                "code": "1F46E-200D-2642-FE0F",
+                "name": "male-police-officer"
+            },
+            {
+                "code": "1F46E-200D-2640-FE0F",
+                "name": "female-police-officer"
+            },
+            {
+                "code": "1F575-FE0F-200D-2642-FE0F",
+                "name": "male-detective"
+            },
+            {
+                "code": "1F575-FE0F-200D-2640-FE0F",
+                "name": "female-detective"
+            },
+            {
+                "code": "1F482-200D-2642-FE0F",
+                "name": "male-guard"
+            },
+            {
+                "code": "1F482-200D-2640-FE0F",
+                "name": "female-guard"
+            },
+            {
+                "code": "1F477-200D-2642-FE0F",
+                "name": "male-construction-worker"
+            },
+            {
+                "code": "1F477-200D-2640-FE0F",
+                "name": "female-construction-worker"
+            },
+            {
+                "code": "1F934",
+                "name": "prince"
+            },
+            {
+                "code": "1F478",
+                "name": "princess"
+            },
+            {
+                "code": "1F473-200D-2642-FE0F",
+                "name": "man-wearing-turban"
+            },
+            {
+                "code": "1F473-200D-2640-FE0F",
+                "name": "woman-wearing-turban"
+            },
+            {
+                "code": "1F472",
+                "name": "man_with_gua_pi_mao"
+            },
+            {
+                "code": "1F9D5",
+                "name": "person_with_headscarf"
+            },
+            {
+                "code": "1F9D4",
+                "name": "bearded_person"
+            },
+            {
+                "code": "1F471-200D-2642-FE0F",
+                "name": "blond-haired-man"
+            },
+            {
+                "code": "1F471-200D-2640-FE0F",
+                "name": "blond-haired-woman"
+            },
+            {
+                "code": "1F468-200D-1F9B0",
+                "name": "male_red_haired"
+            },
+            {
+                "code": "1F469-200D-1F9B0",
+                "name": "female_red_haired"
+            },
+            {
+                "code": "1F468-200D-1F9B1",
+                "name": "male_curly_haired"
+            },
+            {
+                "code": "1F469-200D-1F9B1",
+                "name": "female_curly_haired"
+            },
+            {
+                "code": "1F468-200D-1F9B2",
+                "name": "male_bald"
+            },
+            {
+                "code": "1F469-200D-1F9B2",
+                "name": "female_bald"
+            },
+            {
+                "code": "1F468-200D-1F9B3",
+                "name": "male_white_haired"
+            },
+            {
+                "code": "1F469-200D-1F9B3",
+                "name": "female_white_haired"
+            },
+            {
+                "code": "1F935",
+                "name": "man_in_tuxedo"
+            },
+            {
+                "code": "1F470",
+                "name": "bride_with_veil"
+            },
+            {
+                "code": "1F930",
+                "name": "pregnant_woman"
+            },
+            {
+                "code": "1F931",
+                "name": "breast-feeding"
+            },
+            {
+                "code": "1F47C",
+                "name": "angel"
+            },
+            {
+                "code": "1F385",
+                "name": "santa"
+            },
+            {
+                "code": "1F936",
+                "name": "mrs_claus"
+            },
+            {
+                "code": "1F9B8-200D-2640-FE0F",
+                "name": "female_superhero"
+            },
+            {
+                "code": "1F9B8-200D-2642-FE0F",
+                "name": "male_superhero"
+            },
+            {
+                "code": "1F9B9-200D-2640-FE0F",
+                "name": "female_supervillain"
+            },
+            {
+                "code": "1F9B9-200D-2642-FE0F",
+                "name": "male_supervillain"
+            },
+            {
+                "code": "1F9D9-200D-2640-FE0F",
+                "name": "female_mage"
+            },
+            {
+                "code": "1F9D9-200D-2642-FE0F",
+                "name": "male_mage"
+            },
+            {
+                "code": "1F9DA-200D-2640-FE0F",
+                "name": "female_fairy"
+            },
+            {
+                "code": "1F9DA-200D-2642-FE0F",
+                "name": "male_fairy"
+            },
+            {
+                "code": "1F9DB-200D-2640-FE0F",
+                "name": "female_vampire"
+            },
+            {
+                "code": "1F9DB-200D-2642-FE0F",
+                "name": "male_vampire"
+            },
+            {
+                "code": "1F9DC-200D-2642-FE0F",
+                "name": "merman"
+            },
+            {
+                "code": "1F9DC-200D-2640-FE0F",
+                "name": "mermaid"
+            },
+            {
+                "code": "1F9DD-200D-2642-FE0F",
+                "name": "male_elf"
+            },
+            {
+                "code": "1F9DD-200D-2640-FE0F",
+                "name": "female_elf"
+            },
+            {
+                "code": "1F9DE-200D-2642-FE0F",
+                "name": "male_genie"
+            },
+            {
+                "code": "1F9DE-200D-2640-FE0F",
+                "name": "female_genie"
+            },
+            {
+                "code": "1F9DF-200D-2642-FE0F",
+                "name": "male_zombie"
+            },
+            {
+                "code": "1F9DF-200D-2640-FE0F",
+                "name": "female_zombie"
+            },
+            {
+                "code": "1F64D-200D-2640-FE0F",
+                "name": "woman-frowning"
+            },
+            {
+                "code": "1F64D-200D-2642-FE0F",
+                "name": "man-frowning"
+            },
+            {
+                "code": "1F64E-200D-2640-FE0F",
+                "name": "woman-pouting"
+            },
+            {
+                "code": "1F64E-200D-2642-FE0F",
+                "name": "man-pouting"
+            },
+            {
+                "code": "1F645-200D-2640-FE0F",
+                "name": "woman-gesturing-no"
+            },
+            {
+                "code": "1F645-200D-2642-FE0F",
+                "name": "man-gesturing-no"
+            },
+            {
+                "code": "1F646-200D-2640-FE0F",
+                "name": "woman-gesturing-ok"
+            },
+            {
+                "code": "1F646-200D-2642-FE0F",
+                "name": "man-gesturing-ok"
+            },
+            {
+                "code": "1F481-200D-2640-FE0F",
+                "name": "woman-tipping-hand"
+            },
+            {
+                "code": "1F481-200D-2642-FE0F",
+                "name": "man-tipping-hand"
+            },
+            {
+                "code": "1F64B-200D-2640-FE0F",
+                "name": "woman-raising-hand"
+            },
+            {
+                "code": "1F64B-200D-2642-FE0F",
+                "name": "man-raising-hand"
+            },
+            {
+                "code": "1F647-200D-2642-FE0F",
+                "name": "man-bowing"
+            },
+            {
+                "code": "1F647-200D-2640-FE0F",
+                "name": "woman-bowing"
+            },
+            {
+                "code": "1F926-200D-2642-FE0F",
+                "name": "man-facepalming"
+            },
+            {
+                "code": "1F926-200D-2640-FE0F",
+                "name": "woman-facepalming"
+            },
+            {
+                "code": "1F937-200D-2642-FE0F",
+                "name": "man-shrugging"
+            },
+            {
+                "code": "1F937-200D-2640-FE0F",
+                "name": "woman-shrugging"
+            },
+            {
+                "code": "1F486-200D-2640-FE0F",
+                "name": "woman-getting-massage"
+            },
+            {
+                "code": "1F486-200D-2642-FE0F",
+                "name": "man-getting-massage"
+            },
+            {
+                "code": "1F487-200D-2640-FE0F",
+                "name": "woman-getting-haircut"
+            },
+            {
+                "code": "1F487-200D-2642-FE0F",
+                "name": "man-getting-haircut"
+            },
+            {
+                "code": "1F6B6-200D-2642-FE0F",
+                "name": "man-walking"
+            },
+            {
+                "code": "1F6B6-200D-2640-FE0F",
+                "name": "woman-walking"
+            },
+            {
+                "code": "1F3C3-200D-2642-FE0F",
+                "name": "man-running"
+            },
+            {
+                "code": "1F3C3-200D-2640-FE0F",
+                "name": "woman-running"
+            },
+            {
+                "code": "1F483",
+                "name": "dancer"
+            },
+            {
+                "code": "1F57A",
+                "name": "man_dancing"
+            },
+            {
+                "code": "1F46F-200D-2640-FE0F",
+                "name": "woman-with-bunny-ears-partying"
+            },
+            {
+                "code": "1F46F-200D-2642-FE0F",
+                "name": "man-with-bunny-ears-partying"
+            },
+            {
+                "code": "1F9D6-200D-2642-FE0F",
+                "name": "man_in_steamy_room"
+            },
+            {
+                "code": "1F9D6-200D-2640-FE0F",
+                "name": "woman_in_steamy_room"
+            },
+            {
+                "code": "1F9D7-200D-2640-FE0F",
+                "name": "woman_climbing"
+            },
+            {
+                "code": "1F9D7-200D-2642-FE0F",
+                "name": "man_climbing"
+            },
+            {
+                "code": "1F9D8-200D-2640-FE0F",
+                "name": "woman_in_lotus_position"
+            },
+            {
+                "code": "1F9D8-200D-2642-FE0F",
+                "name": "man_in_lotus_position"
+            },
+            {
+                "code": "1F6C0",
+                "name": "bath"
+            },
+            {
+                "code": "1F6CC",
+                "name": "sleeping_accommodation"
+            },
+            {
+                "code": "1F574-FE0F",
+                "name": "man_in_business_suit_levitating"
+            },
+            {
+                "code": "1F5E3-FE0F",
+                "name": "speaking_head_in_silhouette"
+            },
+            {
+                "code": "1F464",
+                "name": "bust_in_silhouette"
+            },
+            {
+                "code": "1F465",
+                "name": "busts_in_silhouette"
+            },
+            {
+                "code": "1F93A",
+                "name": "fencer"
+            },
+            {
+                "code": "1F3C7",
+                "name": "horse_racing"
+            },
+            {
+                "code": "26F7-FE0F",
+                "name": "skier"
+            },
+            {
+                "code": "1F3C2",
+                "name": "snowboarder"
+            },
+            {
+                "code": "1F3CC-FE0F-200D-2642-FE0F",
+                "name": "man-golfing"
+            },
+            {
+                "code": "1F3CC-FE0F-200D-2640-FE0F",
+                "name": "woman-golfing"
+            },
+            {
+                "code": "1F3C4-200D-2642-FE0F",
+                "name": "man-surfing"
+            },
+            {
+                "code": "1F3C4-200D-2640-FE0F",
+                "name": "woman-surfing"
+            },
+            {
+                "code": "1F6A3-200D-2642-FE0F",
+                "name": "man-rowing-boat"
+            },
+            {
+                "code": "1F6A3-200D-2640-FE0F",
+                "name": "woman-rowing-boat"
+            },
+            {
+                "code": "1F3CA-200D-2642-FE0F",
+                "name": "man-swimming"
+            },
+            {
+                "code": "1F3CA-200D-2640-FE0F",
+                "name": "woman-swimming"
+            },
+            {
+                "code": "26F9-FE0F-200D-2642-FE0F",
+                "name": "man-bouncing-ball"
+            },
+            {
+                "code": "26F9-FE0F-200D-2640-FE0F",
+                "name": "woman-bouncing-ball"
+            },
+            {
+                "code": "1F3CB-FE0F-200D-2642-FE0F",
+                "name": "man-lifting-weights"
+            },
+            {
+                "code": "1F3CB-FE0F-200D-2640-FE0F",
+                "name": "woman-lifting-weights"
+            },
+            {
+                "code": "1F6B4-200D-2642-FE0F",
+                "name": "man-biking"
+            },
+            {
+                "code": "1F6B4-200D-2640-FE0F",
+                "name": "woman-biking"
+            },
+            {
+                "code": "1F6B5-200D-2642-FE0F",
+                "name": "man-mountain-biking"
+            },
+            {
+                "code": "1F6B5-200D-2640-FE0F",
+                "name": "woman-mountain-biking"
+            },
+            {
+                "code": "1F3CE-FE0F",
+                "name": "racing_car"
+            },
+            {
+                "code": "1F3CD-FE0F",
+                "name": "racing_motorcycle"
+            },
+            {
+                "code": "1F938-200D-2642-FE0F",
+                "name": "man-cartwheeling"
+            },
+            {
+                "code": "1F938-200D-2640-FE0F",
+                "name": "woman-cartwheeling"
+            },
+            {
+                "code": "1F93C-200D-2642-FE0F",
+                "name": "man-wrestling"
+            },
+            {
+                "code": "1F93C-200D-2640-FE0F",
+                "name": "woman-wrestling"
+            },
+            {
+                "code": "1F93D-200D-2642-FE0F",
+                "name": "man-playing-water-polo"
+            },
+            {
+                "code": "1F93D-200D-2640-FE0F",
+                "name": "woman-playing-water-polo"
+            },
+            {
+                "code": "1F93E-200D-2642-FE0F",
+                "name": "man-playing-handball"
+            },
+            {
+                "code": "1F93E-200D-2640-FE0F",
+                "name": "woman-playing-handball"
+            },
+            {
+                "code": "1F939-200D-2642-FE0F",
+                "name": "man-juggling"
+            },
+            {
+                "code": "1F939-200D-2640-FE0F",
+                "name": "woman-juggling"
+            },
+            {
+                "code": "1F46B",
+                "name": "couple"
+            },
+            {
+                "code": "1F46C",
+                "name": "two_men_holding_hands"
+            },
+            {
+                "code": "1F46D",
+                "name": "two_women_holding_hands"
+            },
+            {
+                "code": "1F469-200D-2764-FE0F-200D-1F48B-200D-1F468",
+                "name": "woman-kiss-man"
+            },
+            {
+                "code": "1F468-200D-2764-FE0F-200D-1F48B-200D-1F468",
+                "name": "man-kiss-man"
+            },
+            {
+                "code": "1F469-200D-2764-FE0F-200D-1F48B-200D-1F469",
+                "name": "woman-kiss-woman"
+            },
+            {
+                "code": "1F469-200D-2764-FE0F-200D-1F468",
+                "name": "woman-heart-man"
+            },
+            {
+                "code": "1F468-200D-2764-FE0F-200D-1F468",
+                "name": "man-heart-man"
+            },
+            {
+                "code": "1F469-200D-2764-FE0F-200D-1F469",
+                "name": "woman-heart-woman"
+            },
+            {
+                "code": "1F468-200D-1F469-200D-1F466",
+                "name": "man-woman-boy"
+            },
+            {
+                "code": "1F468-200D-1F469-200D-1F467",
+                "name": "man-woman-girl"
+            },
+            {
+                "code": "1F468-200D-1F469-200D-1F467-200D-1F466",
+                "name": "man-woman-girl-boy"
+            },
+            {
+                "code": "1F468-200D-1F469-200D-1F466-200D-1F466",
+                "name": "man-woman-boy-boy"
+            },
+            {
+                "code": "1F468-200D-1F469-200D-1F467-200D-1F467",
+                "name": "man-woman-girl-girl"
+            },
+            {
+                "code": "1F468-200D-1F468-200D-1F466",
+                "name": "man-man-boy"
+            },
+            {
+                "code": "1F468-200D-1F468-200D-1F467",
+                "name": "man-man-girl"
+            },
+            {
+                "code": "1F468-200D-1F468-200D-1F467-200D-1F466",
+                "name": "man-man-girl-boy"
+            },
+            {
+                "code": "1F468-200D-1F468-200D-1F466-200D-1F466",
+                "name": "man-man-boy-boy"
+            },
+            {
+                "code": "1F468-200D-1F468-200D-1F467-200D-1F467",
+                "name": "man-man-girl-girl"
+            },
+            {
+                "code": "1F469-200D-1F469-200D-1F466",
+                "name": "woman-woman-boy"
+            },
+            {
+                "code": "1F469-200D-1F469-200D-1F467",
+                "name": "woman-woman-girl"
+            },
+            {
+                "code": "1F469-200D-1F469-200D-1F467-200D-1F466",
+                "name": "woman-woman-girl-boy"
+            },
+            {
+                "code": "1F469-200D-1F469-200D-1F466-200D-1F466",
+                "name": "woman-woman-boy-boy"
+            },
+            {
+                "code": "1F469-200D-1F469-200D-1F467-200D-1F467",
+                "name": "woman-woman-girl-girl"
+            },
+            {
+                "code": "1F468-200D-1F466",
+                "name": "man-boy"
+            },
+            {
+                "code": "1F468-200D-1F466-200D-1F466",
+                "name": "man-boy-boy"
+            },
+            {
+                "code": "1F468-200D-1F467",
+                "name": "man-girl"
+            },
+            {
+                "code": "1F468-200D-1F467-200D-1F466",
+                "name": "man-girl-boy"
+            },
+            {
+                "code": "1F468-200D-1F467-200D-1F467",
+                "name": "man-girl-girl"
+            },
+            {
+                "code": "1F469-200D-1F466",
+                "name": "woman-boy"
+            },
+            {
+                "code": "1F469-200D-1F466-200D-1F466",
+                "name": "woman-boy-boy"
+            },
+            {
+                "code": "1F469-200D-1F467",
+                "name": "woman-girl"
+            },
+            {
+                "code": "1F469-200D-1F467-200D-1F466",
+                "name": "woman-girl-boy"
+            },
+            {
+                "code": "1F469-200D-1F467-200D-1F467",
+                "name": "woman-girl-girl"
+            },
+            {
+                "code": "1F933",
+                "name": "selfie"
+            },
+            {
+                "code": "1F4AA",
+                "name": "muscle"
+            },
+            {
+                "code": "1F9B5",
+                "name": "leg"
+            },
+            {
+                "code": "1F9B6",
+                "name": "foot"
+            },
+            {
+                "code": "1F448",
+                "name": "point_left"
+            },
+            {
+                "code": "1F449",
+                "name": "point_right"
+            },
+            {
+                "code": "261D-FE0F",
+                "name": "point_up"
+            },
+            {
+                "code": "1F446",
+                "name": "point_up_2"
+            },
+            {
+                "code": "1F595",
+                "name": "middle_finger"
+            },
+            {
+                "code": "1F447",
+                "name": "point_down"
+            },
+            {
+                "code": "270C-FE0F",
+                "name": "v"
+            },
+            {
+                "code": "1F91E",
+                "name": "crossed_fingers"
+            },
+            {
+                "code": "1F596",
+                "name": "spock-hand"
+            },
+            {
+                "code": "1F918",
+                "name": "the_horns"
+            },
+            {
+                "code": "1F919",
+                "name": "call_me_hand"
+            },
+            {
+                "code": "1F590-FE0F",
+                "name": "raised_hand_with_fingers_splayed"
+            },
+            {
+                "code": "270B",
+                "name": "hand"
+            },
+            {
+                "code": "1F44C",
+                "name": "ok_hand"
+            },
+            {
+                "code": "1F44D",
+                "name": "+1"
+            },
+            {
+                "code": "1F44E",
+                "name": "-1"
+            },
+            {
+                "code": "270A",
+                "name": "fist"
+            },
+            {
+                "code": "1F44A",
+                "name": "facepunch"
+            },
+            {
+                "code": "1F91B",
+                "name": "left-facing_fist"
+            },
+            {
+                "code": "1F91C",
+                "name": "right-facing_fist"
+            },
+            {
+                "code": "1F91A",
+                "name": "raised_back_of_hand"
+            },
+            {
+                "code": "1F44B",
+                "name": "wave"
+            },
+            {
+                "code": "1F91F",
+                "name": "i_love_you_hand_sign"
+            },
+            {
+                "code": "270D-FE0F",
+                "name": "writing_hand"
+            },
+            {
+                "code": "1F44F",
+                "name": "clap"
+            },
+            {
+                "code": "1F450",
+                "name": "open_hands"
+            },
+            {
+                "code": "1F64C",
+                "name": "raised_hands"
+            },
+            {
+                "code": "1F932",
+                "name": "palms_up_together"
+            },
+            {
+                "code": "1F64F",
+                "name": "pray"
+            },
+            {
+                "code": "1F91D",
+                "name": "handshake"
+            },
+            {
+                "code": "1F485",
+                "name": "nail_care"
+            },
+            {
+                "code": "1F442",
+                "name": "ear"
+            },
+            {
+                "code": "1F443",
+                "name": "nose"
+            },
+            {
+                "code": "1F463",
+                "name": "footprints"
+            },
+            {
+                "code": "1F440",
+                "name": "eyes"
+            },
+            {
+                "code": "1F441-FE0F",
+                "name": "eye"
+            },
+            {
+                "code": "1F441-FE0F-200D-1F5E8-FE0F",
+                "name": "eye-in-speech-bubble"
+            },
+            {
+                "code": "1F9E0",
+                "name": "brain"
+            },
+            {
+                "code": "1F9B4",
+                "name": "bone"
+            },
+            {
+                "code": "1F9B7",
+                "name": "tooth"
+            },
+            {
+                "code": "1F445",
+                "name": "tongue"
+            },
+            {
+                "code": "1F444",
+                "name": "lips"
+            },
+            {
+                "code": "1F48B",
+                "name": "kiss"
+            },
+            {
+                "code": "1F498",
+                "name": "cupid"
+            },
+            {
+                "code": "2764-FE0F",
+                "name": "heart"
+            },
+            {
+                "code": "1F493",
+                "name": "heartbeat"
+            },
+            {
+                "code": "1F494",
+                "name": "broken_heart"
+            },
+            {
+                "code": "1F495",
+                "name": "two_hearts"
+            },
+            {
+                "code": "1F496",
+                "name": "sparkling_heart"
+            },
+            {
+                "code": "1F497",
+                "name": "heartpulse"
+            },
+            {
+                "code": "1F499",
+                "name": "blue_heart"
+            },
+            {
+                "code": "1F49A",
+                "name": "green_heart"
+            },
+            {
+                "code": "1F49B",
+                "name": "yellow_heart"
+            },
+            {
+                "code": "1F9E1",
+                "name": "orange_heart"
+            },
+            {
+                "code": "1F49C",
+                "name": "purple_heart"
+            },
+            {
+                "code": "1F5A4",
+                "name": "black_heart"
+            },
+            {
+                "code": "1F49D",
+                "name": "gift_heart"
+            },
+            {
+                "code": "1F49E",
+                "name": "revolving_hearts"
+            },
+            {
+                "code": "1F49F",
+                "name": "heart_decoration"
+            },
+            {
+                "code": "2763-FE0F",
+                "name": "heavy_heart_exclamation_mark_ornament"
+            },
+            {
+                "code": "1F48C",
+                "name": "love_letter"
+            },
+            {
+                "code": "1F4A4",
+                "name": "zzz"
+            },
+            {
+                "code": "1F4A2",
+                "name": "anger"
+            },
+            {
+                "code": "1F4A3",
+                "name": "bomb"
+            },
+            {
+                "code": "1F4A5",
+                "name": "boom"
+            },
+            {
+                "code": "1F4A6",
+                "name": "sweat_drops"
+            },
+            {
+                "code": "1F4A8",
+                "name": "dash"
+            },
+            {
+                "code": "1F4AB",
+                "name": "dizzy"
+            },
+            {
+                "code": "1F4AC",
+                "name": "speech_balloon"
+            },
+            {
+                "code": "1F5E8-FE0F",
+                "name": "left_speech_bubble"
+            },
+            {
+                "code": "1F5EF-FE0F",
+                "name": "right_anger_bubble"
+            },
+            {
+                "code": "1F4AD",
+                "name": "thought_balloon"
+            },
+            {
+                "code": "1F573-FE0F",
+                "name": "hole"
+            },
+            {
+                "code": "1F453",
+                "name": "eyeglasses"
+            },
+            {
+                "code": "1F576-FE0F",
+                "name": "dark_sunglasses"
+            },
+            {
+                "code": "1F97D",
+                "name": "goggles"
+            },
+            {
+                "code": "1F97C",
+                "name": "lab_coat"
+            },
+            {
+                "code": "1F454",
+                "name": "necktie"
+            },
+            {
+                "code": "1F455",
+                "name": "shirt"
+            },
+            {
+                "code": "1F456",
+                "name": "jeans"
+            },
+            {
+                "code": "1F9E3",
+                "name": "scarf"
+            },
+            {
+                "code": "1F9E4",
+                "name": "gloves"
+            },
+            {
+                "code": "1F9E5",
+                "name": "coat"
+            },
+            {
+                "code": "1F9E6",
+                "name": "socks"
+            },
+            {
+                "code": "1F457",
+                "name": "dress"
+            },
+            {
+                "code": "1F458",
+                "name": "kimono"
+            },
+            {
+                "code": "1F459",
+                "name": "bikini"
+            },
+            {
+                "code": "1F45A",
+                "name": "womans_clothes"
+            },
+            {
+                "code": "1F45B",
+                "name": "purse"
+            },
+            {
+                "code": "1F45C",
+                "name": "handbag"
+            },
+            {
+                "code": "1F45D",
+                "name": "pouch"
+            },
+            {
+                "code": "1F6CD-FE0F",
+                "name": "shopping_bags"
+            },
+            {
+                "code": "1F392",
+                "name": "school_satchel"
+            },
+            {
+                "code": "1F45E",
+                "name": "mans_shoe"
+            },
+            {
+                "code": "1F45F",
+                "name": "athletic_shoe"
+            },
+            {
+                "code": "1F97E",
+                "name": "hiking_boot"
+            },
+            {
+                "code": "1F97F",
+                "name": "womans_flat_shoe"
+            },
+            {
+                "code": "1F460",
+                "name": "high_heel"
+            },
+            {
+                "code": "1F461",
+                "name": "sandal"
+            },
+            {
+                "code": "1F462",
+                "name": "boot"
+            },
+            {
+                "code": "1F451",
+                "name": "crown"
+            },
+            {
+                "code": "1F452",
+                "name": "womans_hat"
+            },
+            {
+                "code": "1F3A9",
+                "name": "tophat"
+            },
+            {
+                "code": "1F393",
+                "name": "mortar_board"
+            },
+            {
+                "code": "1F9E2",
+                "name": "billed_cap"
+            },
+            {
+                "code": "26D1-FE0F",
+                "name": "helmet_with_white_cross"
+            },
+            {
+                "code": "1F4FF",
+                "name": "prayer_beads"
+            },
+            {
+                "code": "1F484",
+                "name": "lipstick"
+            },
+            {
+                "code": "1F48D",
+                "name": "ring"
+            },
+            {
+                "code": "1F48E",
+                "name": "gem"
+            }
+        ]
+    },
+    {
+        "category": "animals_nature",
+        "emoji": [
+            {
+                "code": "1F435",
+                "name": "monkey_face"
+            },
+            {
+                "code": "1F412",
+                "name": "monkey"
+            },
+            {
+                "code": "1F98D",
+                "name": "gorilla"
+            },
+            {
+                "code": "1F436",
+                "name": "dog"
+            },
+            {
+                "code": "1F415",
+                "name": "dog2"
+            },
+            {
+                "code": "1F429",
+                "name": "poodle"
+            },
+            {
+                "code": "1F43A",
+                "name": "wolf"
+            },
+            {
+                "code": "1F98A",
+                "name": "fox_face"
+            },
+            {
+                "code": "1F99D",
+                "name": "raccoon"
+            },
+            {
+                "code": "1F431",
+                "name": "cat"
+            },
+            {
+                "code": "1F408",
+                "name": "cat2"
+            },
+            {
+                "code": "1F981",
+                "name": "lion_face"
+            },
+            {
+                "code": "1F42F",
+                "name": "tiger"
+            },
+            {
+                "code": "1F405",
+                "name": "tiger2"
+            },
+            {
+                "code": "1F406",
+                "name": "leopard"
+            },
+            {
+                "code": "1F434",
+                "name": "horse"
+            },
+            {
+                "code": "1F40E",
+                "name": "racehorse"
+            },
+            {
+                "code": "1F984",
+                "name": "unicorn_face"
+            },
+            {
+                "code": "1F993",
+                "name": "zebra_face"
+            },
+            {
+                "code": "1F98C",
+                "name": "deer"
+            },
+            {
+                "code": "1F42E",
+                "name": "cow"
+            },
+            {
+                "code": "1F402",
+                "name": "ox"
+            },
+            {
+                "code": "1F403",
+                "name": "water_buffalo"
+            },
+            {
+                "code": "1F404",
+                "name": "cow2"
+            },
+            {
+                "code": "1F437",
+                "name": "pig"
+            },
+            {
+                "code": "1F416",
+                "name": "pig2"
+            },
+            {
+                "code": "1F417",
+                "name": "boar"
+            },
+            {
+                "code": "1F43D",
+                "name": "pig_nose"
+            },
+            {
+                "code": "1F40F",
+                "name": "ram"
+            },
+            {
+                "code": "1F411",
+                "name": "sheep"
+            },
+            {
+                "code": "1F410",
+                "name": "goat"
+            },
+            {
+                "code": "1F42A",
+                "name": "dromedary_camel"
+            },
+            {
+                "code": "1F42B",
+                "name": "camel"
+            },
+            {
+                "code": "1F999",
+                "name": "llama"
+            },
+            {
+                "code": "1F992",
+                "name": "giraffe_face"
+            },
+            {
+                "code": "1F418",
+                "name": "elephant"
+            },
+            {
+                "code": "1F98F",
+                "name": "rhinoceros"
+            },
+            {
+                "code": "1F99B",
+                "name": "hippopotamus"
+            },
+            {
+                "code": "1F42D",
+                "name": "mouse"
+            },
+            {
+                "code": "1F401",
+                "name": "mouse2"
+            },
+            {
+                "code": "1F400",
+                "name": "rat"
+            },
+            {
+                "code": "1F439",
+                "name": "hamster"
+            },
+            {
+                "code": "1F430",
+                "name": "rabbit"
+            },
+            {
+                "code": "1F407",
+                "name": "rabbit2"
+            },
+            {
+                "code": "1F43F-FE0F",
+                "name": "chipmunk"
+            },
+            {
+                "code": "1F994",
+                "name": "hedgehog"
+            },
+            {
+                "code": "1F987",
+                "name": "bat"
+            },
+            {
+                "code": "1F43B",
+                "name": "bear"
+            },
+            {
+                "code": "1F428",
+                "name": "koala"
+            },
+            {
+                "code": "1F43C",
+                "name": "panda_face"
+            },
+            {
+                "code": "1F998",
+                "name": "kangaroo"
+            },
+            {
+                "code": "1F9A1",
+                "name": "badger"
+            },
+            {
+                "code": "1F43E",
+                "name": "feet"
+            },
+            {
+                "code": "1F983",
+                "name": "turkey"
+            },
+            {
+                "code": "1F414",
+                "name": "chicken"
+            },
+            {
+                "code": "1F413",
+                "name": "rooster"
+            },
+            {
+                "code": "1F423",
+                "name": "hatching_chick"
+            },
+            {
+                "code": "1F424",
+                "name": "baby_chick"
+            },
+            {
+                "code": "1F425",
+                "name": "hatched_chick"
+            },
+            {
+                "code": "1F426",
+                "name": "bird"
+            },
+            {
+                "code": "1F427",
+                "name": "penguin"
+            },
+            {
+                "code": "1F54A-FE0F",
+                "name": "dove_of_peace"
+            },
+            {
+                "code": "1F985",
+                "name": "eagle"
+            },
+            {
+                "code": "1F986",
+                "name": "duck"
+            },
+            {
+                "code": "1F9A2",
+                "name": "swan"
+            },
+            {
+                "code": "1F989",
+                "name": "owl"
+            },
+            {
+                "code": "1F99A",
+                "name": "peacock"
+            },
+            {
+                "code": "1F99C",
+                "name": "parrot"
+            },
+            {
+                "code": "1F438",
+                "name": "frog"
+            },
+            {
+                "code": "1F40A",
+                "name": "crocodile"
+            },
+            {
+                "code": "1F422",
+                "name": "turtle"
+            },
+            {
+                "code": "1F98E",
+                "name": "lizard"
+            },
+            {
+                "code": "1F40D",
+                "name": "snake"
+            },
+            {
+                "code": "1F432",
+                "name": "dragon_face"
+            },
+            {
+                "code": "1F409",
+                "name": "dragon"
+            },
+            {
+                "code": "1F995",
+                "name": "sauropod"
+            },
+            {
+                "code": "1F996",
+                "name": "t-rex"
+            },
+            {
+                "code": "1F433",
+                "name": "whale"
+            },
+            {
+                "code": "1F40B",
+                "name": "whale2"
+            },
+            {
+                "code": "1F42C",
+                "name": "dolphin"
+            },
+            {
+                "code": "1F41F",
+                "name": "fish"
+            },
+            {
+                "code": "1F420",
+                "name": "tropical_fish"
+            },
+            {
+                "code": "1F421",
+                "name": "blowfish"
+            },
+            {
+                "code": "1F988",
+                "name": "shark"
+            },
+            {
+                "code": "1F419",
+                "name": "octopus"
+            },
+            {
+                "code": "1F41A",
+                "name": "shell"
+            },
+            {
+                "code": "1F980",
+                "name": "crab"
+            },
+            {
+                "code": "1F99E",
+                "name": "lobster"
+            },
+            {
+                "code": "1F990",
+                "name": "shrimp"
+            },
+            {
+                "code": "1F991",
+                "name": "squid"
+            },
+            {
+                "code": "1F40C",
+                "name": "snail"
+            },
+            {
+                "code": "1F98B",
+                "name": "butterfly"
+            },
+            {
+                "code": "1F41B",
+                "name": "bug"
+            },
+            {
+                "code": "1F41C",
+                "name": "ant"
+            },
+            {
+                "code": "1F41D",
+                "name": "bee"
+            },
+            {
+                "code": "1F41E",
+                "name": "beetle"
+            },
+            {
+                "code": "1F997",
+                "name": "cricket"
+            },
+            {
+                "code": "1F577-FE0F",
+                "name": "spider"
+            },
+            {
+                "code": "1F578-FE0F",
+                "name": "spider_web"
+            },
+            {
+                "code": "1F982",
+                "name": "scorpion"
+            },
+            {
+                "code": "1F99F",
+                "name": "mosquito"
+            },
+            {
+                "code": "1F9A0",
+                "name": "microbe"
+            },
+            {
+                "code": "1F490",
+                "name": "bouquet"
+            },
+            {
+                "code": "1F338",
+                "name": "cherry_blossom"
+            },
+            {
+                "code": "1F4AE",
+                "name": "white_flower"
+            },
+            {
+                "code": "1F3F5-FE0F",
+                "name": "rosette"
+            },
+            {
+                "code": "1F339",
+                "name": "rose"
+            },
+            {
+                "code": "1F940",
+                "name": "wilted_flower"
+            },
+            {
+                "code": "1F33A",
+                "name": "hibiscus"
+            },
+            {
+                "code": "1F33B",
+                "name": "sunflower"
+            },
+            {
+                "code": "1F33C",
+                "name": "blossom"
+            },
+            {
+                "code": "1F337",
+                "name": "tulip"
+            },
+            {
+                "code": "1F331",
+                "name": "seedling"
+            },
+            {
+                "code": "1F332",
+                "name": "evergreen_tree"
+            },
+            {
+                "code": "1F333",
+                "name": "deciduous_tree"
+            },
+            {
+                "code": "1F334",
+                "name": "palm_tree"
+            },
+            {
+                "code": "1F335",
+                "name": "cactus"
+            },
+            {
+                "code": "1F33E",
+                "name": "ear_of_rice"
+            },
+            {
+                "code": "1F33F",
+                "name": "herb"
+            },
+            {
+                "code": "2618-FE0F",
+                "name": "shamrock"
+            },
+            {
+                "code": "1F340",
+                "name": "four_leaf_clover"
+            },
+            {
+                "code": "1F341",
+                "name": "maple_leaf"
+            },
+            {
+                "code": "1F342",
+                "name": "fallen_leaf"
+            },
+            {
+                "code": "1F343",
+                "name": "leaves"
+            }
+        ]
+    },
+    {
+        "category": "food_drink",
+        "emoji": [
+            {
+                "code": "1F347",
+                "name": "grapes"
+            },
+            {
+                "code": "1F348",
+                "name": "melon"
+            },
+            {
+                "code": "1F349",
+                "name": "watermelon"
+            },
+            {
+                "code": "1F34A",
+                "name": "tangerine"
+            },
+            {
+                "code": "1F34B",
+                "name": "lemon"
+            },
+            {
+                "code": "1F34C",
+                "name": "banana"
+            },
+            {
+                "code": "1F34D",
+                "name": "pineapple"
+            },
+            {
+                "code": "1F96D",
+                "name": "mango"
+            },
+            {
+                "code": "1F34E",
+                "name": "apple"
+            },
+            {
+                "code": "1F34F",
+                "name": "green_apple"
+            },
+            {
+                "code": "1F350",
+                "name": "pear"
+            },
+            {
+                "code": "1F351",
+                "name": "peach"
+            },
+            {
+                "code": "1F352",
+                "name": "cherries"
+            },
+            {
+                "code": "1F353",
+                "name": "strawberry"
+            },
+            {
+                "code": "1F95D",
+                "name": "kiwifruit"
+            },
+            {
+                "code": "1F345",
+                "name": "tomato"
+            },
+            {
+                "code": "1F965",
+                "name": "coconut"
+            },
+            {
+                "code": "1F951",
+                "name": "avocado"
+            },
+            {
+                "code": "1F346",
+                "name": "eggplant"
+            },
+            {
+                "code": "1F954",
+                "name": "potato"
+            },
+            {
+                "code": "1F955",
+                "name": "carrot"
+            },
+            {
+                "code": "1F33D",
+                "name": "corn"
+            },
+            {
+                "code": "1F336-FE0F",
+                "name": "hot_pepper"
+            },
+            {
+                "code": "1F952",
+                "name": "cucumber"
+            },
+            {
+                "code": "1F96C",
+                "name": "leafy_green"
+            },
+            {
+                "code": "1F966",
+                "name": "broccoli"
+            },
+            {
+                "code": "1F344",
+                "name": "mushroom"
+            },
+            {
+                "code": "1F95C",
+                "name": "peanuts"
+            },
+            {
+                "code": "1F330",
+                "name": "chestnut"
+            },
+            {
+                "code": "1F35E",
+                "name": "bread"
+            },
+            {
+                "code": "1F950",
+                "name": "croissant"
+            },
+            {
+                "code": "1F956"
+            },
+            {
+                "code": "1F968",
+                "name": "pretzel"
+            },
+            {
+                "code": "1F96F",
+                "name": "bagel"
+            },
+            {
+                "code": "1F95E",
+                "name": "pancakes"
+            },
+            {
+                "code": "1F9C0",
+                "name": "cheese_wedge"
+            },
+            {
+                "code": "1F356",
+                "name": "meat_on_bone"
+            },
+            {
+                "code": "1F357",
+                "name": "poultry_leg"
+            },
+            {
+                "code": "1F969",
+                "name": "cut_of_meat"
+            },
+            {
+                "code": "1F953",
+                "name": "bacon"
+            },
+            {
+                "code": "1F354",
+                "name": "hamburger"
+            },
+            {
+                "code": "1F35F",
+                "name": "fries"
+            },
+            {
+                "code": "1F355",
+                "name": "pizza"
+            },
+            {
+                "code": "1F32D",
+                "name": "hotdog"
+            },
+            {
+                "code": "1F96A",
+                "name": "sandwich"
+            },
+            {
+                "code": "1F32E",
+                "name": "taco"
+            },
+            {
+                "code": "1F32F",
+                "name": "burrito"
+            },
+            {
+                "code": "1F959",
+                "name": "stuffed_flatbread"
+            },
+            {
+                "code": "1F95A",
+                "name": "egg"
+            },
+            {
+                "code": "1F373",
+                "name": "fried_egg"
+            },
+            {
+                "code": "1F958",
+                "name": "shallow_pan_of_food"
+            },
+            {
+                "code": "1F372",
+                "name": "stew"
+            },
+            {
+                "code": "1F963",
+                "name": "bowl_with_spoon"
+            },
+            {
+                "code": "1F957",
+                "name": "green_salad"
+            },
+            {
+                "code": "1F37F",
+                "name": "popcorn"
+            },
+            {
+                "code": "1F9C2",
+                "name": "salt"
+            },
+            {
+                "code": "1F96B",
+                "name": "canned_food"
+            },
+            {
+                "code": "1F371",
+                "name": "bento"
+            },
+            {
+                "code": "1F358",
+                "name": "rice_cracker"
+            },
+            {
+                "code": "1F359",
+                "name": "rice_ball"
+            },
+            {
+                "code": "1F35A",
+                "name": "rice"
+            },
+            {
+                "code": "1F35B",
+                "name": "curry"
+            },
+            {
+                "code": "1F35C",
+                "name": "ramen"
+            },
+            {
+                "code": "1F35D",
+                "name": "spaghetti"
+            },
+            {
+                "code": "1F360",
+                "name": "sweet_potato"
+            },
+            {
+                "code": "1F362",
+                "name": "oden"
+            },
+            {
+                "code": "1F363",
+                "name": "sushi"
+            },
+            {
+                "code": "1F364",
+                "name": "fried_shrimp"
+            },
+            {
+                "code": "1F365",
+                "name": "fish_cake"
+            },
+            {
+                "code": "1F96E",
+                "name": "moon_cake"
+            },
+            {
+                "code": "1F361",
+                "name": "dango"
+            },
+            {
+                "code": "1F95F",
+                "name": "dumpling"
+            },
+            {
+                "code": "1F960",
+                "name": "fortune_cookie"
+            },
+            {
+                "code": "1F961",
+                "name": "takeout_box"
+            },
+            {
+                "code": "1F366",
+                "name": "icecream"
+            },
+            {
+                "code": "1F367",
+                "name": "shaved_ice"
+            },
+            {
+                "code": "1F368",
+                "name": "ice_cream"
+            },
+            {
+                "code": "1F369",
+                "name": "doughnut"
+            },
+            {
+                "code": "1F36A",
+                "name": "cookie"
+            },
+            {
+                "code": "1F382",
+                "name": "birthday"
+            },
+            {
+                "code": "1F370",
+                "name": "cake"
+            },
+            {
+                "code": "1F9C1",
+                "name": "cupcake"
+            },
+            {
+                "code": "1F967",
+                "name": "pie"
+            },
+            {
+                "code": "1F36B",
+                "name": "chocolate_bar"
+            },
+            {
+                "code": "1F36C",
+                "name": "candy"
+            },
+            {
+                "code": "1F36D",
+                "name": "lollipop"
+            },
+            {
+                "code": "1F36E",
+                "name": "custard"
+            },
+            {
+                "code": "1F36F",
+                "name": "honey_pot"
+            },
+            {
+                "code": "1F37C",
+                "name": "baby_bottle"
+            },
+            {
+                "code": "1F95B",
+                "name": "glass_of_milk"
+            },
+            {
+                "code": "2615",
+                "name": "coffee"
+            },
+            {
+                "code": "1F375",
+                "name": "tea"
+            },
+            {
+                "code": "1F376",
+                "name": "sake"
+            },
+            {
+                "code": "1F37E",
+                "name": "champagne"
+            },
+            {
+                "code": "1F377",
+                "name": "wine_glass"
+            },
+            {
+                "code": "1F378",
+                "name": "cocktail"
+            },
+            {
+                "code": "1F379",
+                "name": "tropical_drink"
+            },
+            {
+                "code": "1F37A",
+                "name": "beer"
+            },
+            {
+                "code": "1F37B",
+                "name": "beers"
+            },
+            {
+                "code": "1F942",
+                "name": "clinking_glasses"
+            },
+            {
+                "code": "1F943",
+                "name": "tumbler_glass"
+            },
+            {
+                "code": "1F964",
+                "name": "cup_with_straw"
+            },
+            {
+                "code": "1F962",
+                "name": "chopsticks"
+            },
+            {
+                "code": "1F37D-FE0F",
+                "name": "knife_fork_plate"
+            },
+            {
+                "code": "1F374",
+                "name": "fork_and_knife"
+            },
+            {
+                "code": "1F944",
+                "name": "spoon"
+            },
+            {
+                "code": "1F52A",
+                "name": "hocho"
+            },
+            {
+                "code": "1F3FA",
+                "name": "amphora"
+            }
+        ]
+    },
+    {
+        "category": "activities",
+        "emoji": [
+            {
+                "code": "1F383",
+                "name": "jack_o_lantern"
+            },
+            {
+                "code": "1F384",
+                "name": "christmas_tree"
+            },
+            {
+                "code": "1F386",
+                "name": "fireworks"
+            },
+            {
+                "code": "1F387",
+                "name": "sparkler"
+            },
+            {
+                "code": "1F9E8",
+                "name": "firecracker"
+            },
+            {
+                "code": "2728",
+                "name": "sparkles"
+            },
+            {
+                "code": "1F388",
+                "name": "balloon"
+            },
+            {
+                "code": "1F389",
+                "name": "tada"
+            },
+            {
+                "code": "1F38A",
+                "name": "confetti_ball"
+            },
+            {
+                "code": "1F38B",
+                "name": "tanabata_tree"
+            },
+            {
+                "code": "1F38D",
+                "name": "bamboo"
+            },
+            {
+                "code": "1F38E",
+                "name": "dolls"
+            },
+            {
+                "code": "1F38F",
+                "name": "flags"
+            },
+            {
+                "code": "1F390",
+                "name": "wind_chime"
+            },
+            {
+                "code": "1F391",
+                "name": "rice_scene"
+            },
+            {
+                "code": "1F9E7",
+                "name": "red_envelope"
+            },
+            {
+                "code": "1F380",
+                "name": "ribbon"
+            },
+            {
+                "code": "1F381",
+                "name": "gift"
+            },
+            {
+                "code": "1F397-FE0F",
+                "name": "reminder_ribbon"
+            },
+            {
+                "code": "1F39F-FE0F",
+                "name": "admission_tickets"
+            },
+            {
+                "code": "1F3AB",
+                "name": "ticket"
+            },
+            {
+                "code": "1F396-FE0F",
+                "name": "medal"
+            },
+            {
+                "code": "1F3C6",
+                "name": "trophy"
+            },
+            {
+                "code": "1F3C5",
+                "name": "sports_medal"
+            },
+            {
+                "code": "1F947",
+                "name": "first_place_medal"
+            },
+            {
+                "code": "1F948",
+                "name": "second_place_medal"
+            },
+            {
+                "code": "1F949",
+                "name": "third_place_medal"
+            },
+            {
+                "code": "26BD",
+                "name": "soccer"
+            },
+            {
+                "code": "26BE",
+                "name": "baseball"
+            },
+            {
+                "code": "1F94E",
+                "name": "softball"
+            },
+            {
+                "code": "1F3C0",
+                "name": "basketball"
+            },
+            {
+                "code": "1F3D0",
+                "name": "volleyball"
+            },
+            {
+                "code": "1F3C8",
+                "name": "football"
+            },
+            {
+                "code": "1F3C9",
+                "name": "rugby_football"
+            },
+            {
+                "code": "1F3BE",
+                "name": "tennis"
+            },
+            {
+                "code": "1F94F",
+                "name": "flying_disc"
+            },
+            {
+                "code": "1F3B3",
+                "name": "bowling"
+            },
+            {
+                "code": "1F3CF",
+                "name": "cricket_bat_and_ball"
+            },
+            {
+                "code": "1F3D1",
+                "name": "field_hockey_stick_and_ball"
+            },
+            {
+                "code": "1F3D2",
+                "name": "ice_hockey_stick_and_puck"
+            },
+            {
+                "code": "1F94D",
+                "name": "lacrosse"
+            },
+            {
+                "code": "1F3D3",
+                "name": "table_tennis_paddle_and_ball"
+            },
+            {
+                "code": "1F3F8",
+                "name": "badminton_racquet_and_shuttlecock"
+            },
+            {
+                "code": "1F94A",
+                "name": "boxing_glove"
+            },
+            {
+                "code": "1F94B",
+                "name": "martial_arts_uniform"
+            },
+            {
+                "code": "1F945",
+                "name": "goal_net"
+            },
+            {
+                "code": "26F3",
+                "name": "golf"
+            },
+            {
+                "code": "26F8-FE0F",
+                "name": "ice_skate"
+            },
+            {
+                "code": "1F3A3",
+                "name": "fishing_pole_and_fish"
+            },
+            {
+                "code": "1F3BD",
+                "name": "running_shirt_with_sash"
+            },
+            {
+                "code": "1F3BF",
+                "name": "ski"
+            },
+            {
+                "code": "1F6F7",
+                "name": "sled"
+            },
+            {
+                "code": "1F94C",
+                "name": "curling_stone"
+            },
+            {
+                "code": "1F3AF",
+                "name": "dart"
+            },
+            {
+                "code": "1F3B1",
+                "name": "8ball"
+            },
+            {
+                "code": "1F52E",
+                "name": "crystal_ball"
+            },
+            {
+                "code": "1F9FF",
+                "name": "nazar_amulet"
+            },
+            {
+                "code": "1F3AE",
+                "name": "video_game"
+            },
+            {
+                "code": "1F579-FE0F",
+                "name": "joystick"
+            },
+            {
+                "code": "1F3B0",
+                "name": "slot_machine"
+            },
+            {
+                "code": "1F3B2",
+                "name": "game_die"
+            },
+            {
+                "code": "1F9E9",
+                "name": "jigsaw"
+            },
+            {
+                "code": "1F9F8",
+                "name": "teddy_bear"
+            },
+            {
+                "code": "2660-FE0F",
+                "name": "spades"
+            },
+            {
+                "code": "2665-FE0F",
+                "name": "hearts"
+            },
+            {
+                "code": "2666-FE0F",
+                "name": "diamonds"
+            },
+            {
+                "code": "2663-FE0F",
+                "name": "clubs"
+            },
+            {
+                "code": "265F-FE0F",
+                "name": "chess_pawn"
+            },
+            {
+                "code": "1F0CF",
+                "name": "black_joker"
+            },
+            {
+                "code": "1F004",
+                "name": "mahjong"
+            },
+            {
+                "code": "1F3B4",
+                "name": "flower_playing_cards"
+            },
+            {
+                "code": "1F3AD",
+                "name": "performing_arts"
+            },
+            {
+                "code": "1F5BC-FE0F",
+                "name": "frame_with_picture"
+            },
+            {
+                "code": "1F3A8",
+                "name": "art"
+            },
+            {
+                "code": "1F9F5",
+                "name": "thread"
+            },
+            {
+                "code": "1F9F6",
+                "name": "yarn"
+            }
+        ]
+    },
+    {
+        "category": "travel_places",
+        "emoji": [
+            {
+                "code": "1F30D",
+                "name": "earth_africa"
+            },
+            {
+                "code": "1F30E",
+                "name": "earth_americas"
+            },
+            {
+                "code": "1F30F",
+                "name": "earth_asia"
+            },
+            {
+                "code": "1F310",
+                "name": "globe_with_meridians"
+            },
+            {
+                "code": "1F5FA-FE0F",
+                "name": "world_map"
+            },
+            {
+                "code": "1F5FE",
+                "name": "japan"
+            },
+            {
+                "code": "1F9ED",
+                "name": "compass"
+            },
+            {
+                "code": "1F3D4-FE0F",
+                "name": "snow_capped_mountain"
+            },
+            {
+                "code": "26F0-FE0F",
+                "name": "mountain"
+            },
+            {
+                "code": "1F30B",
+                "name": "volcano"
+            },
+            {
+                "code": "1F5FB",
+                "name": "mount_fuji"
+            },
+            {
+                "code": "1F3D5-FE0F",
+                "name": "camping"
+            },
+            {
+                "code": "1F3D6-FE0F",
+                "name": "beach_with_umbrella"
+            },
+            {
+                "code": "1F3DC-FE0F",
+                "name": "desert"
+            },
+            {
+                "code": "1F3DD-FE0F",
+                "name": "desert_island"
+            },
+            {
+                "code": "1F3DE-FE0F",
+                "name": "national_park"
+            },
+            {
+                "code": "1F3DF-FE0F",
+                "name": "stadium"
+            },
+            {
+                "code": "1F3DB-FE0F",
+                "name": "classical_building"
+            },
+            {
+                "code": "1F3D7-FE0F",
+                "name": "building_construction"
+            },
+            {
+                "code": "1F9F1",
+                "name": "bricks"
+            },
+            {
+                "code": "1F3D8-FE0F",
+                "name": "house_buildings"
+            },
+            {
+                "code": "1F3DA-FE0F",
+                "name": "derelict_house_building"
+            },
+            {
+                "code": "1F3E0",
+                "name": "house"
+            },
+            {
+                "code": "1F3E1",
+                "name": "house_with_garden"
+            },
+            {
+                "code": "1F3E2",
+                "name": "office"
+            },
+            {
+                "code": "1F3E3",
+                "name": "post_office"
+            },
+            {
+                "code": "1F3E4",
+                "name": "european_post_office"
+            },
+            {
+                "code": "1F3E5",
+                "name": "hospital"
+            },
+            {
+                "code": "1F3E6",
+                "name": "bank"
+            },
+            {
+                "code": "1F3E8",
+                "name": "hotel"
+            },
+            {
+                "code": "1F3E9",
+                "name": "love_hotel"
+            },
+            {
+                "code": "1F3EA",
+                "name": "convenience_store"
+            },
+            {
+                "code": "1F3EB",
+                "name": "school"
+            },
+            {
+                "code": "1F3EC",
+                "name": "department_store"
+            },
+            {
+                "code": "1F3ED",
+                "name": "factory"
+            },
+            {
+                "code": "1F3EF",
+                "name": "japanese_castle"
+            },
+            {
+                "code": "1F3F0",
+                "name": "european_castle"
+            },
+            {
+                "code": "1F492",
+                "name": "wedding"
+            },
+            {
+                "code": "1F5FC",
+                "name": "tokyo_tower"
+            },
+            {
+                "code": "1F5FD",
+                "name": "statue_of_liberty"
+            },
+            {
+                "code": "26EA",
+                "name": "church"
+            },
+            {
+                "code": "1F54C",
+                "name": "mosque"
+            },
+            {
+                "code": "1F54D",
+                "name": "synagogue"
+            },
+            {
+                "code": "26E9-FE0F",
+                "name": "shinto_shrine"
+            },
+            {
+                "code": "1F54B",
+                "name": "kaaba"
+            },
+            {
+                "code": "26F2",
+                "name": "fountain"
+            },
+            {
+                "code": "26FA",
+                "name": "tent"
+            },
+            {
+                "code": "1F301",
+                "name": "foggy"
+            },
+            {
+                "code": "1F303",
+                "name": "night_with_stars"
+            },
+            {
+                "code": "1F3D9-FE0F",
+                "name": "cityscape"
+            },
+            {
+                "code": "1F304",
+                "name": "sunrise_over_mountains"
+            },
+            {
+                "code": "1F305",
+                "name": "sunrise"
+            },
+            {
+                "code": "1F306",
+                "name": "city_sunset"
+            },
+            {
+                "code": "1F307",
+                "name": "city_sunrise"
+            },
+            {
+                "code": "1F309",
+                "name": "bridge_at_night"
+            },
+            {
+                "code": "2668-FE0F",
+                "name": "hotsprings"
+            },
+            {
+                "code": "1F30C",
+                "name": "milky_way"
+            },
+            {
+                "code": "1F3A0",
+                "name": "carousel_horse"
+            },
+            {
+                "code": "1F3A1",
+                "name": "ferris_wheel"
+            },
+            {
+                "code": "1F3A2",
+                "name": "roller_coaster"
+            },
+            {
+                "code": "1F488",
+                "name": "barber"
+            },
+            {
+                "code": "1F3AA",
+                "name": "circus_tent"
+            },
+            {
+                "code": "1F682",
+                "name": "steam_locomotive"
+            },
+            {
+                "code": "1F683",
+                "name": "railway_car"
+            },
+            {
+                "code": "1F684",
+                "name": "bullettrain_side"
+            },
+            {
+                "code": "1F685",
+                "name": "bullettrain_front"
+            },
+            {
+                "code": "1F686",
+                "name": "train2"
+            },
+            {
+                "code": "1F687",
+                "name": "metro"
+            },
+            {
+                "code": "1F688",
+                "name": "light_rail"
+            },
+            {
+                "code": "1F689",
+                "name": "station"
+            },
+            {
+                "code": "1F68A",
+                "name": "tram"
+            },
+            {
+                "code": "1F69D",
+                "name": "monorail"
+            },
+            {
+                "code": "1F69E",
+                "name": "mountain_railway"
+            },
+            {
+                "code": "1F68B",
+                "name": "train"
+            },
+            {
+                "code": "1F68C",
+                "name": "bus"
+            },
+            {
+                "code": "1F68D",
+                "name": "oncoming_bus"
+            },
+            {
+                "code": "1F68E",
+                "name": "trolleybus"
+            },
+            {
+                "code": "1F690",
+                "name": "minibus"
+            },
+            {
+                "code": "1F691",
+                "name": "ambulance"
+            },
+            {
+                "code": "1F692",
+                "name": "fire_engine"
+            },
+            {
+                "code": "1F693",
+                "name": "police_car"
+            },
+            {
+                "code": "1F694",
+                "name": "oncoming_police_car"
+            },
+            {
+                "code": "1F695",
+                "name": "taxi"
+            },
+            {
+                "code": "1F696",
+                "name": "oncoming_taxi"
+            },
+            {
+                "code": "1F697",
+                "name": "car"
+            },
+            {
+                "code": "1F698",
+                "name": "oncoming_automobile"
+            },
+            {
+                "code": "1F699",
+                "name": "blue_car"
+            },
+            {
+                "code": "1F69A",
+                "name": "truck"
+            },
+            {
+                "code": "1F69B",
+                "name": "articulated_lorry"
+            },
+            {
+                "code": "1F69C",
+                "name": "tractor"
+            },
+            {
+                "code": "1F6B2",
+                "name": "bike"
+            },
+            {
+                "code": "1F6F4",
+                "name": "scooter"
+            },
+            {
+                "code": "1F6F9",
+                "name": "skateboard"
+            },
+            {
+                "code": "1F6F5",
+                "name": "motor_scooter"
+            },
+            {
+                "code": "1F68F",
+                "name": "busstop"
+            },
+            {
+                "code": "1F6E3-FE0F",
+                "name": "motorway"
+            },
+            {
+                "code": "1F6E4-FE0F",
+                "name": "railway_track"
+            },
+            {
+                "code": "1F6E2-FE0F",
+                "name": "oil_drum"
+            },
+            {
+                "code": "26FD",
+                "name": "fuelpump"
+            },
+            {
+                "code": "1F6A8",
+                "name": "rotating_light"
+            },
+            {
+                "code": "1F6A5",
+                "name": "traffic_light"
+            },
+            {
+                "code": "1F6A6",
+                "name": "vertical_traffic_light"
+            },
+            {
+                "code": "1F6D1",
+                "name": "octagonal_sign"
+            },
+            {
+                "code": "1F6A7",
+                "name": "construction"
+            },
+            {
+                "code": "2693",
+                "name": "anchor"
+            },
+            {
+                "code": "26F5",
+                "name": "boat"
+            },
+            {
+                "code": "1F6F6",
+                "name": "canoe"
+            },
+            {
+                "code": "1F6A4",
+                "name": "speedboat"
+            },
+            {
+                "code": "1F6F3-FE0F",
+                "name": "passenger_ship"
+            },
+            {
+                "code": "26F4-FE0F",
+                "name": "ferry"
+            },
+            {
+                "code": "1F6E5-FE0F",
+                "name": "motor_boat"
+            },
+            {
+                "code": "1F6A2",
+                "name": "ship"
+            },
+            {
+                "code": "2708-FE0F",
+                "name": "airplane"
+            },
+            {
+                "code": "1F6E9-FE0F",
+                "name": "small_airplane"
+            },
+            {
+                "code": "1F6EB",
+                "name": "airplane_departure"
+            },
+            {
+                "code": "1F6EC",
+                "name": "airplane_arriving"
+            },
+            {
+                "code": "1F4BA",
+                "name": "seat"
+            },
+            {
+                "code": "1F681",
+                "name": "helicopter"
+            },
+            {
+                "code": "1F69F",
+                "name": "suspension_railway"
+            },
+            {
+                "code": "1F6A0",
+                "name": "mountain_cableway"
+            },
+            {
+                "code": "1F6A1",
+                "name": "aerial_tramway"
+            },
+            {
+                "code": "1F6F0-FE0F",
+                "name": "satellite"
+            },
+            {
+                "code": "1F680",
+                "name": "rocket"
+            },
+            {
+                "code": "1F6F8",
+                "name": "flying_saucer"
+            },
+            {
+                "code": "1F6CE-FE0F",
+                "name": "bellhop_bell"
+            },
+            {
+                "code": "1F9F3",
+                "name": "luggage"
+            },
+            {
+                "code": "231B",
+                "name": "hourglass"
+            },
+            {
+                "code": "23F3",
+                "name": "hourglass_flowing_sand"
+            },
+            {
+                "code": "231A",
+                "name": "watch"
+            },
+            {
+                "code": "23F0",
+                "name": "alarm_clock"
+            },
+            {
+                "code": "23F1-FE0F",
+                "name": "stopwatch"
+            },
+            {
+                "code": "23F2-FE0F",
+                "name": "timer_clock"
+            },
+            {
+                "code": "1F570-FE0F",
+                "name": "mantelpiece_clock"
+            },
+            {
+                "code": "1F55B",
+                "name": "clock12"
+            },
+            {
+                "code": "1F567",
+                "name": "clock1230"
+            },
+            {
+                "code": "1F550",
+                "name": "clock1"
+            },
+            {
+                "code": "1F55C",
+                "name": "clock130"
+            },
+            {
+                "code": "1F551",
+                "name": "clock2"
+            },
+            {
+                "code": "1F55D",
+                "name": "clock230"
+            },
+            {
+                "code": "1F552",
+                "name": "clock3"
+            },
+            {
+                "code": "1F55E",
+                "name": "clock330"
+            },
+            {
+                "code": "1F553",
+                "name": "clock4"
+            },
+            {
+                "code": "1F55F",
+                "name": "clock430"
+            },
+            {
+                "code": "1F554",
+                "name": "clock5"
+            },
+            {
+                "code": "1F560",
+                "name": "clock530"
+            },
+            {
+                "code": "1F555",
+                "name": "clock6"
+            },
+            {
+                "code": "1F561",
+                "name": "clock630"
+            },
+            {
+                "code": "1F556",
+                "name": "clock7"
+            },
+            {
+                "code": "1F562",
+                "name": "clock730"
+            },
+            {
+                "code": "1F557",
+                "name": "clock8"
+            },
+            {
+                "code": "1F563",
+                "name": "clock830"
+            },
+            {
+                "code": "1F558",
+                "name": "clock9"
+            },
+            {
+                "code": "1F564",
+                "name": "clock930"
+            },
+            {
+                "code": "1F559",
+                "name": "clock10"
+            },
+            {
+                "code": "1F565",
+                "name": "clock1030"
+            },
+            {
+                "code": "1F55A",
+                "name": "clock11"
+            },
+            {
+                "code": "1F566",
+                "name": "clock1130"
+            },
+            {
+                "code": "1F311",
+                "name": "new_moon"
+            },
+            {
+                "code": "1F312",
+                "name": "waxing_crescent_moon"
+            },
+            {
+                "code": "1F313",
+                "name": "first_quarter_moon"
+            },
+            {
+                "code": "1F314",
+                "name": "moon"
+            },
+            {
+                "code": "1F315",
+                "name": "full_moon"
+            },
+            {
+                "code": "1F316",
+                "name": "waning_gibbous_moon"
+            },
+            {
+                "code": "1F317",
+                "name": "last_quarter_moon"
+            },
+            {
+                "code": "1F318",
+                "name": "waning_crescent_moon"
+            },
+            {
+                "code": "1F319",
+                "name": "crescent_moon"
+            },
+            {
+                "code": "1F31A",
+                "name": "new_moon_with_face"
+            },
+            {
+                "code": "1F31B",
+                "name": "first_quarter_moon_with_face"
+            },
+            {
+                "code": "1F31C",
+                "name": "last_quarter_moon_with_face"
+            },
+            {
+                "code": "1F321-FE0F",
+                "name": "thermometer"
+            },
+            {
+                "code": "2600-FE0F",
+                "name": "sunny"
+            },
+            {
+                "code": "1F31D",
+                "name": "full_moon_with_face"
+            },
+            {
+                "code": "1F31E",
+                "name": "sun_with_face"
+            },
+            {
+                "code": "2B50",
+                "name": "star"
+            },
+            {
+                "code": "1F31F",
+                "name": "star2"
+            },
+            {
+                "code": "1F320",
+                "name": "stars"
+            },
+            {
+                "code": "2601-FE0F",
+                "name": "cloud"
+            },
+            {
+                "code": "26C5",
+                "name": "partly_sunny"
+            },
+            {
+                "code": "26C8-FE0F",
+                "name": "thunder_cloud_and_rain"
+            },
+            {
+                "code": "1F324-FE0F",
+                "name": "mostly_sunny"
+            },
+            {
+                "code": "1F325-FE0F",
+                "name": "barely_sunny"
+            },
+            {
+                "code": "1F326-FE0F",
+                "name": "partly_sunny_rain"
+            },
+            {
+                "code": "1F327-FE0F",
+                "name": "rain_cloud"
+            },
+            {
+                "code": "1F328-FE0F",
+                "name": "snow_cloud"
+            },
+            {
+                "code": "1F329-FE0F",
+                "name": "lightning"
+            },
+            {
+                "code": "1F32A-FE0F",
+                "name": "tornado"
+            },
+            {
+                "code": "1F32B-FE0F",
+                "name": "fog"
+            },
+            {
+                "code": "1F32C-FE0F",
+                "name": "wind_blowing_face"
+            },
+            {
+                "code": "1F300",
+                "name": "cyclone"
+            },
+            {
+                "code": "1F308",
+                "name": "rainbow"
+            },
+            {
+                "code": "1F302",
+                "name": "closed_umbrella"
+            },
+            {
+                "code": "2602-FE0F",
+                "name": "umbrella"
+            },
+            {
+                "code": "2614",
+                "name": "umbrella_with_rain_drops"
+            },
+            {
+                "code": "26F1-FE0F",
+                "name": "umbrella_on_ground"
+            },
+            {
+                "code": "26A1",
+                "name": "zap"
+            },
+            {
+                "code": "2744-FE0F",
+                "name": "snowflake"
+            },
+            {
+                "code": "2603-FE0F",
+                "name": "snowman"
+            },
+            {
+                "code": "26C4",
+                "name": "snowman_without_snow"
+            },
+            {
+                "code": "2604-FE0F",
+                "name": "comet"
+            },
+            {
+                "code": "1F525",
+                "name": "fire"
+            },
+            {
+                "code": "1F4A7",
+                "name": "droplet"
+            },
+            {
+                "code": "1F30A",
+                "name": "ocean"
+            }
+        ]
+    },
+    {
+        "category": "objects",
+        "emoji": [
+            {
+                "code": "1F507",
+                "name": "mute"
+            },
+            {
+                "code": "1F508",
+                "name": "speaker"
+            },
+            {
+                "code": "1F509",
+                "name": "sound"
+            },
+            {
+                "code": "1F50A",
+                "name": "loud_sound"
+            },
+            {
+                "code": "1F4E2",
+                "name": "loudspeaker"
+            },
+            {
+                "code": "1F4E3",
+                "name": "mega"
+            },
+            {
+                "code": "1F4EF",
+                "name": "postal_horn"
+            },
+            {
+                "code": "1F514",
+                "name": "bell"
+            },
+            {
+                "code": "1F515",
+                "name": "no_bell"
+            },
+            {
+                "code": "1F3BC",
+                "name": "musical_score"
+            },
+            {
+                "code": "1F3B5",
+                "name": "musical_note"
+            },
+            {
+                "code": "1F3B6",
+                "name": "notes"
+            },
+            {
+                "code": "1F399-FE0F",
+                "name": "studio_microphone"
+            },
+            {
+                "code": "1F39A-FE0F",
+                "name": "level_slider"
+            },
+            {
+                "code": "1F39B-FE0F",
+                "name": "control_knobs"
+            },
+            {
+                "code": "1F3A4",
+                "name": "microphone"
+            },
+            {
+                "code": "1F3A7",
+                "name": "headphones"
+            },
+            {
+                "code": "1F4FB",
+                "name": "radio"
+            },
+            {
+                "code": "1F3B7",
+                "name": "saxophone"
+            },
+            {
+                "code": "1F3B8",
+                "name": "guitar"
+            },
+            {
+                "code": "1F3B9",
+                "name": "musical_keyboard"
+            },
+            {
+                "code": "1F3BA",
+                "name": "trumpet"
+            },
+            {
+                "code": "1F3BB",
+                "name": "violin"
+            },
+            {
+                "code": "1F941",
+                "name": "drum_with_drumsticks"
+            },
+            {
+                "code": "1F4F1",
+                "name": "iphone"
+            },
+            {
+                "code": "1F4F2",
+                "name": "calling"
+            },
+            {
+                "code": "260E-FE0F",
+                "name": "phone"
+            },
+            {
+                "code": "1F4DE",
+                "name": "telephone_receiver"
+            },
+            {
+                "code": "1F4DF",
+                "name": "pager"
+            },
+            {
+                "code": "1F4E0",
+                "name": "fax"
+            },
+            {
+                "code": "1F50B",
+                "name": "battery"
+            },
+            {
+                "code": "1F50C",
+                "name": "electric_plug"
+            },
+            {
+                "code": "1F4BB",
+                "name": "computer"
+            },
+            {
+                "code": "1F5A5-FE0F",
+                "name": "desktop_computer"
+            },
+            {
+                "code": "1F5A8-FE0F",
+                "name": "printer"
+            },
+            {
+                "code": "2328-FE0F",
+                "name": "keyboard"
+            },
+            {
+                "code": "1F5B1-FE0F",
+                "name": "three_button_mouse"
+            },
+            {
+                "code": "1F5B2-FE0F",
+                "name": "trackball"
+            },
+            {
+                "code": "1F4BD",
+                "name": "minidisc"
+            },
+            {
+                "code": "1F4BE",
+                "name": "floppy_disk"
+            },
+            {
+                "code": "1F4BF",
+                "name": "cd"
+            },
+            {
+                "code": "1F4C0",
+                "name": "dvd"
+            },
+            {
+                "code": "1F9EE",
+                "name": "abacus"
+            },
+            {
+                "code": "1F3A5",
+                "name": "movie_camera"
+            },
+            {
+                "code": "1F39E-FE0F",
+                "name": "film_frames"
+            },
+            {
+                "code": "1F4FD-FE0F",
+                "name": "film_projector"
+            },
+            {
+                "code": "1F3AC",
+                "name": "clapper"
+            },
+            {
+                "code": "1F4FA",
+                "name": "tv"
+            },
+            {
+                "code": "1F4F7",
+                "name": "camera"
+            },
+            {
+                "code": "1F4F8",
+                "name": "camera_with_flash"
+            },
+            {
+                "code": "1F4F9",
+                "name": "video_camera"
+            },
+            {
+                "code": "1F4FC",
+                "name": "vhs"
+            },
+            {
+                "code": "1F50D",
+                "name": "mag"
+            },
+            {
+                "code": "1F50E",
+                "name": "mag_right"
+            },
+            {
+                "code": "1F56F-FE0F",
+                "name": "candle"
+            },
+            {
+                "code": "1F4A1",
+                "name": "bulb"
+            },
+            {
+                "code": "1F526",
+                "name": "flashlight"
+            },
+            {
+                "code": "1F3EE",
+                "name": "izakaya_lantern"
+            },
+            {
+                "code": "1F4D4",
+                "name": "notebook_with_decorative_cover"
+            },
+            {
+                "code": "1F4D5",
+                "name": "closed_book"
+            },
+            {
+                "code": "1F4D6",
+                "name": "book"
+            },
+            {
+                "code": "1F4D7",
+                "name": "green_book"
+            },
+            {
+                "code": "1F4D8",
+                "name": "blue_book"
+            },
+            {
+                "code": "1F4D9",
+                "name": "orange_book"
+            },
+            {
+                "code": "1F4DA",
+                "name": "books"
+            },
+            {
+                "code": "1F4D3",
+                "name": "notebook"
+            },
+            {
+                "code": "1F4D2",
+                "name": "ledger"
+            },
+            {
+                "code": "1F4C3",
+                "name": "page_with_curl"
+            },
+            {
+                "code": "1F4DC",
+                "name": "scroll"
+            },
+            {
+                "code": "1F4C4",
+                "name": "page_facing_up"
+            },
+            {
+                "code": "1F4F0",
+                "name": "newspaper"
+            },
+            {
+                "code": "1F5DE-FE0F",
+                "name": "rolled_up_newspaper"
+            },
+            {
+                "code": "1F4D1",
+                "name": "bookmark_tabs"
+            },
+            {
+                "code": "1F516",
+                "name": "bookmark"
+            },
+            {
+                "code": "1F3F7-FE0F",
+                "name": "label"
+            },
+            {
+                "code": "1F4B0",
+                "name": "moneybag"
+            },
+            {
+                "code": "1F4B4",
+                "name": "yen"
+            },
+            {
+                "code": "1F4B5",
+                "name": "dollar"
+            },
+            {
+                "code": "1F4B6",
+                "name": "euro"
+            },
+            {
+                "code": "1F4B7",
+                "name": "pound"
+            },
+            {
+                "code": "1F4B8",
+                "name": "money_with_wings"
+            },
+            {
+                "code": "1F4B3",
+                "name": "credit_card"
+            },
+            {
+                "code": "1F9FE",
+                "name": "receipt"
+            },
+            {
+                "code": "1F4B9",
+                "name": "chart"
+            },
+            {
+                "code": "1F4B1",
+                "name": "currency_exchange"
+            },
+            {
+                "code": "1F4B2",
+                "name": "heavy_dollar_sign"
+            },
+            {
+                "code": "2709-FE0F",
+                "name": "email"
+            },
+            {
+                "code": "1F4E7",
+                "name": "e-mail"
+            },
+            {
+                "code": "1F4E8",
+                "name": "incoming_envelope"
+            },
+            {
+                "code": "1F4E9",
+                "name": "envelope_with_arrow"
+            },
+            {
+                "code": "1F4E4",
+                "name": "outbox_tray"
+            },
+            {
+                "code": "1F4E5",
+                "name": "inbox_tray"
+            },
+            {
+                "code": "1F4E6",
+                "name": "package"
+            },
+            {
+                "code": "1F4EB",
+                "name": "mailbox"
+            },
+            {
+                "code": "1F4EA",
+                "name": "mailbox_closed"
+            },
+            {
+                "code": "1F4EC",
+                "name": "mailbox_with_mail"
+            },
+            {
+                "code": "1F4ED",
+                "name": "mailbox_with_no_mail"
+            },
+            {
+                "code": "1F4EE",
+                "name": "postbox"
+            },
+            {
+                "code": "1F5F3-FE0F",
+                "name": "ballot_box_with_ballot"
+            },
+            {
+                "code": "270F-FE0F",
+                "name": "pencil2"
+            },
+            {
+                "code": "2712-FE0F",
+                "name": "black_nib"
+            },
+            {
+                "code": "1F58B-FE0F",
+                "name": "lower_left_fountain_pen"
+            },
+            {
+                "code": "1F58A-FE0F",
+                "name": "lower_left_ballpoint_pen"
+            },
+            {
+                "code": "1F58C-FE0F",
+                "name": "lower_left_paintbrush"
+            },
+            {
+                "code": "1F58D-FE0F",
+                "name": "lower_left_crayon"
+            },
+            {
+                "code": "1F4DD",
+                "name": "memo"
+            },
+            {
+                "code": "1F4BC",
+                "name": "briefcase"
+            },
+            {
+                "code": "1F4C1",
+                "name": "file_folder"
+            },
+            {
+                "code": "1F4C2",
+                "name": "open_file_folder"
+            },
+            {
+                "code": "1F5C2-FE0F",
+                "name": "card_index_dividers"
+            },
+            {
+                "code": "1F4C5",
+                "name": "date"
+            },
+            {
+                "code": "1F4C6",
+                "name": "calendar"
+            },
+            {
+                "code": "1F5D2-FE0F",
+                "name": "spiral_note_pad"
+            },
+            {
+                "code": "1F5D3-FE0F",
+                "name": "spiral_calendar_pad"
+            },
+            {
+                "code": "1F4C7",
+                "name": "card_index"
+            },
+            {
+                "code": "1F4C8",
+                "name": "chart_with_upwards_trend"
+            },
+            {
+                "code": "1F4C9",
+                "name": "chart_with_downwards_trend"
+            },
+            {
+                "code": "1F4CA",
+                "name": "bar_chart"
+            },
+            {
+                "code": "1F4CB",
+                "name": "clipboard"
+            },
+            {
+                "code": "1F4CC",
+                "name": "pushpin"
+            },
+            {
+                "code": "1F4CD",
+                "name": "round_pushpin"
+            },
+            {
+                "code": "1F4CE",
+                "name": "paperclip"
+            },
+            {
+                "code": "1F587-FE0F",
+                "name": "linked_paperclips"
+            },
+            {
+                "code": "1F4CF",
+                "name": "straight_ruler"
+            },
+            {
+                "code": "1F4D0",
+                "name": "triangular_ruler"
+            },
+            {
+                "code": "2702-FE0F",
+                "name": "scissors"
+            },
+            {
+                "code": "1F5C3-FE0F",
+                "name": "card_file_box"
+            },
+            {
+                "code": "1F5C4-FE0F",
+                "name": "file_cabinet"
+            },
+            {
+                "code": "1F5D1-FE0F",
+                "name": "wastebasket"
+            },
+            {
+                "code": "1F512",
+                "name": "lock"
+            },
+            {
+                "code": "1F513",
+                "name": "unlock"
+            },
+            {
+                "code": "1F50F",
+                "name": "lock_with_ink_pen"
+            },
+            {
+                "code": "1F510",
+                "name": "closed_lock_with_key"
+            },
+            {
+                "code": "1F511",
+                "name": "key"
+            },
+            {
+                "code": "1F5DD-FE0F",
+                "name": "old_key"
+            },
+            {
+                "code": "1F528",
+                "name": "hammer"
+            },
+            {
+                "code": "26CF-FE0F",
+                "name": "pick"
+            },
+            {
+                "code": "2692-FE0F",
+                "name": "hammer_and_pick"
+            },
+            {
+                "code": "1F6E0-FE0F",
+                "name": "hammer_and_wrench"
+            },
+            {
+                "code": "1F5E1-FE0F",
+                "name": "dagger_knife"
+            },
+            {
+                "code": "2694-FE0F",
+                "name": "crossed_swords"
+            },
+            {
+                "code": "1F52B",
+                "name": "gun"
+            },
+            {
+                "code": "1F3F9",
+                "name": "bow_and_arrow"
+            },
+            {
+                "code": "1F6E1-FE0F",
+                "name": "shield"
+            },
+            {
+                "code": "1F527",
+                "name": "wrench"
+            },
+            {
+                "code": "1F529",
+                "name": "nut_and_bolt"
+            },
+            {
+                "code": "2699-FE0F",
+                "name": "gear"
+            },
+            {
+                "code": "1F5DC-FE0F",
+                "name": "compression"
+            },
+            {
+                "code": "2696-FE0F",
+                "name": "scales"
+            },
+            {
+                "code": "1F517",
+                "name": "link"
+            },
+            {
+                "code": "26D3-FE0F",
+                "name": "chains"
+            },
+            {
+                "code": "1F9F0",
+                "name": "toolbox"
+            },
+            {
+                "code": "1F9F2",
+                "name": "magnet"
+            },
+            {
+                "code": "2697-FE0F",
+                "name": "alembic"
+            },
+            {
+                "code": "1F9EA",
+                "name": "test_tube"
+            },
+            {
+                "code": "1F9EB",
+                "name": "petri_dish"
+            },
+            {
+                "code": "1F9EC",
+                "name": "dna"
+            },
+            {
+                "code": "1F52C",
+                "name": "microscope"
+            },
+            {
+                "code": "1F52D",
+                "name": "telescope"
+            },
+            {
+                "code": "1F4E1",
+                "name": "satellite_antenna"
+            },
+            {
+                "code": "1F489",
+                "name": "syringe"
+            },
+            {
+                "code": "1F48A",
+                "name": "pill"
+            },
+            {
+                "code": "1F6AA",
+                "name": "door"
+            },
+            {
+                "code": "1F6CF-FE0F",
+                "name": "bed"
+            },
+            {
+                "code": "1F6CB-FE0F",
+                "name": "couch_and_lamp"
+            },
+            {
+                "code": "1F6BD",
+                "name": "toilet"
+            },
+            {
+                "code": "1F6BF",
+                "name": "shower"
+            },
+            {
+                "code": "1F6C1",
+                "name": "bathtub"
+            },
+            {
+                "code": "1F9F4",
+                "name": "lotion_bottle"
+            },
+            {
+                "code": "1F9F7",
+                "name": "safety_pin"
+            },
+            {
+                "code": "1F9F9",
+                "name": "broom"
+            },
+            {
+                "code": "1F9FA",
+                "name": "basket"
+            },
+            {
+                "code": "1F9FB",
+                "name": "roll_of_paper"
+            },
+            {
+                "code": "1F9FC",
+                "name": "soap"
+            },
+            {
+                "code": "1F9FD",
+                "name": "sponge"
+            },
+            {
+                "code": "1F9EF",
+                "name": "fire_extinguisher"
+            },
+            {
+                "code": "1F6D2",
+                "name": "shopping_trolley"
+            },
+            {
+                "code": "1F6AC",
+                "name": "smoking"
+            },
+            {
+                "code": "26B0-FE0F",
+                "name": "coffin"
+            },
+            {
+                "code": "26B1-FE0F",
+                "name": "funeral_urn"
+            },
+            {
+                "code": "1F5FF",
+                "name": "moyai"
+            }
+        ]
+    },
+    {
+        "category": "symbols",
+        "emoji": [
+            {
+                "code": "1F3E7",
+                "name": "atm"
+            },
+            {
+                "code": "1F6AE",
+                "name": "put_litter_in_its_place"
+            },
+            {
+                "code": "1F6B0",
+                "name": "potable_water"
+            },
+            {
+                "code": "267F",
+                "name": "wheelchair"
+            },
+            {
+                "code": "1F6B9",
+                "name": "mens"
+            },
+            {
+                "code": "1F6BA",
+                "name": "womens"
+            },
+            {
+                "code": "1F6BB",
+                "name": "restroom"
+            },
+            {
+                "code": "1F6BC",
+                "name": "baby_symbol"
+            },
+            {
+                "code": "1F6BE",
+                "name": "wc"
+            },
+            {
+                "code": "1F6C2",
+                "name": "passport_control"
+            },
+            {
+                "code": "1F6C3",
+                "name": "customs"
+            },
+            {
+                "code": "1F6C4",
+                "name": "baggage_claim"
+            },
+            {
+                "code": "1F6C5",
+                "name": "left_luggage"
+            },
+            {
+                "code": "26A0-FE0F",
+                "name": "warning"
+            },
+            {
+                "code": "1F6B8",
+                "name": "children_crossing"
+            },
+            {
+                "code": "26D4",
+                "name": "no_entry"
+            },
+            {
+                "code": "1F6AB",
+                "name": "no_entry_sign"
+            },
+            {
+                "code": "1F6B3",
+                "name": "no_bicycles"
+            },
+            {
+                "code": "1F6AD",
+                "name": "no_smoking"
+            },
+            {
+                "code": "1F6AF",
+                "name": "do_not_litter"
+            },
+            {
+                "code": "1F6B1",
+                "name": "non-potable_water"
+            },
+            {
+                "code": "1F6B7",
+                "name": "no_pedestrians"
+            },
+            {
+                "code": "1F4F5",
+                "name": "no_mobile_phones"
+            },
+            {
+                "code": "1F51E",
+                "name": "underage"
+            },
+            {
+                "code": "2622-FE0F",
+                "name": "radioactive_sign"
+            },
+            {
+                "code": "2623-FE0F",
+                "name": "biohazard_sign"
+            },
+            {
+                "code": "2B06-FE0F",
+                "name": "arrow_up"
+            },
+            {
+                "code": "2197-FE0F",
+                "name": "arrow_upper_right"
+            },
+            {
+                "code": "27A1-FE0F",
+                "name": "arrow_right"
+            },
+            {
+                "code": "2198-FE0F",
+                "name": "arrow_lower_right"
+            },
+            {
+                "code": "2B07-FE0F",
+                "name": "arrow_down"
+            },
+            {
+                "code": "2199-FE0F",
+                "name": "arrow_lower_left"
+            },
+            {
+                "code": "2B05-FE0F",
+                "name": "arrow_left"
+            },
+            {
+                "code": "2196-FE0F",
+                "name": "arrow_upper_left"
+            },
+            {
+                "code": "2195-FE0F",
+                "name": "arrow_up_down"
+            },
+            {
+                "code": "2194-FE0F",
+                "name": "left_right_arrow"
+            },
+            {
+                "code": "21A9-FE0F",
+                "name": "leftwards_arrow_with_hook"
+            },
+            {
+                "code": "21AA-FE0F",
+                "name": "arrow_right_hook"
+            },
+            {
+                "code": "2934-FE0F",
+                "name": "arrow_heading_up"
+            },
+            {
+                "code": "2935-FE0F",
+                "name": "arrow_heading_down"
+            },
+            {
+                "code": "1F503",
+                "name": "arrows_clockwise"
+            },
+            {
+                "code": "1F504",
+                "name": "arrows_counterclockwise"
+            },
+            {
+                "code": "1F519",
+                "name": "back"
+            },
+            {
+                "code": "1F51A",
+                "name": "end"
+            },
+            {
+                "code": "1F51B",
+                "name": "on"
+            },
+            {
+                "code": "1F51C",
+                "name": "soon"
+            },
+            {
+                "code": "1F51D",
+                "name": "top"
+            },
+            {
+                "code": "1F6D0",
+                "name": "place_of_worship"
+            },
+            {
+                "code": "269B-FE0F",
+                "name": "atom_symbol"
+            },
+            {
+                "code": "1F549-FE0F",
+                "name": "om_symbol"
+            },
+            {
+                "code": "2721-FE0F",
+                "name": "star_of_david"
+            },
+            {
+                "code": "2638-FE0F",
+                "name": "wheel_of_dharma"
+            },
+            {
+                "code": "262F-FE0F",
+                "name": "yin_yang"
+            },
+            {
+                "code": "271D-FE0F",
+                "name": "latin_cross"
+            },
+            {
+                "code": "2626-FE0F",
+                "name": "orthodox_cross"
+            },
+            {
+                "code": "262A-FE0F",
+                "name": "star_and_crescent"
+            },
+            {
+                "code": "262E-FE0F",
+                "name": "peace_symbol"
+            },
+            {
+                "code": "1F54E",
+                "name": "menorah_with_nine_branches"
+            },
+            {
+                "code": "1F52F",
+                "name": "six_pointed_star"
+            },
+            {
+                "code": "2648",
+                "name": "aries"
+            },
+            {
+                "code": "2649",
+                "name": "taurus"
+            },
+            {
+                "code": "264A",
+                "name": "gemini"
+            },
+            {
+                "code": "264B",
+                "name": "cancer"
+            },
+            {
+                "code": "264C",
+                "name": "leo"
+            },
+            {
+                "code": "264D",
+                "name": "virgo"
+            },
+            {
+                "code": "264E",
+                "name": "libra"
+            },
+            {
+                "code": "264F",
+                "name": "scorpius"
+            },
+            {
+                "code": "2650",
+                "name": "sagittarius"
+            },
+            {
+                "code": "2651",
+                "name": "capricorn"
+            },
+            {
+                "code": "2652",
+                "name": "aquarius"
+            },
+            {
+                "code": "2653",
+                "name": "pisces"
+            },
+            {
+                "code": "26CE",
+                "name": "ophiuchus"
+            },
+            {
+                "code": "1F500",
+                "name": "twisted_rightwards_arrows"
+            },
+            {
+                "code": "1F501",
+                "name": "repeat"
+            },
+            {
+                "code": "1F502",
+                "name": "repeat_one"
+            },
+            {
+                "code": "25B6-FE0F",
+                "name": "arrow_forward"
+            },
+            {
+                "code": "23E9",
+                "name": "fast_forward"
+            },
+            {
+                "code": "23ED-FE0F",
+                "name": "black_right_pointing_double_triangle_with_vertical_bar"
+            },
+            {
+                "code": "23EF-FE0F",
+                "name": "black_right_pointing_triangle_with_double_vertical_bar"
+            },
+            {
+                "code": "25C0-FE0F",
+                "name": "arrow_backward"
+            },
+            {
+                "code": "23EA",
+                "name": "rewind"
+            },
+            {
+                "code": "23EE-FE0F",
+                "name": "black_left_pointing_double_triangle_with_vertical_bar"
+            },
+            {
+                "code": "1F53C",
+                "name": "arrow_up_small"
+            },
+            {
+                "code": "23EB",
+                "name": "arrow_double_up"
+            },
+            {
+                "code": "1F53D",
+                "name": "arrow_down_small"
+            },
+            {
+                "code": "23EC",
+                "name": "arrow_double_down"
+            },
+            {
+                "code": "23F8-FE0F",
+                "name": "double_vertical_bar"
+            },
+            {
+                "code": "23F9-FE0F",
+                "name": "black_square_for_stop"
+            },
+            {
+                "code": "23FA-FE0F",
+                "name": "black_circle_for_record"
+            },
+            {
+                "code": "23CF-FE0F",
+                "name": "eject"
+            },
+            {
+                "code": "1F3A6",
+                "name": "cinema"
+            },
+            {
+                "code": "1F505",
+                "name": "low_brightness"
+            },
+            {
+                "code": "1F506",
+                "name": "high_brightness"
+            },
+            {
+                "code": "1F4F6",
+                "name": "signal_strength"
+            },
+            {
+                "code": "1F4F3",
+                "name": "vibration_mode"
+            },
+            {
+                "code": "1F4F4",
+                "name": "mobile_phone_off"
+            },
+            {
+                "code": "2640-FE0F",
+                "name": "female_sign"
+            },
+            {
+                "code": "2642-FE0F",
+                "name": "male_sign"
+            },
+            {
+                "code": "2695-FE0F",
+                "name": "medical_symbol"
+            },
+            {
+                "code": "267E-FE0F",
+                "name": "infinity"
+            },
+            {
+                "code": "267B-FE0F",
+                "name": "recycle"
+            },
+            {
+                "code": "269C-FE0F",
+                "name": "fleur_de_lis"
+            },
+            {
+                "code": "1F531",
+                "name": "trident"
+            },
+            {
+                "code": "1F4DB",
+                "name": "name_badge"
+            },
+            {
+                "code": "1F530",
+                "name": "beginner"
+            },
+            {
+                "code": "2B55",
+                "name": "o"
+            },
+            {
+                "code": "2705",
+                "name": "white_check_mark"
+            },
+            {
+                "code": "2611-FE0F",
+                "name": "ballot_box_with_check"
+            },
+            {
+                "code": "2714-FE0F",
+                "name": "heavy_check_mark"
+            },
+            {
+                "code": "2716-FE0F",
+                "name": "heavy_multiplication_x"
+            },
+            {
+                "code": "274C",
+                "name": "x"
+            },
+            {
+                "code": "274E",
+                "name": "negative_squared_cross_mark"
+            },
+            {
+                "code": "2795",
+                "name": "heavy_plus_sign"
+            },
+            {
+                "code": "2796",
+                "name": "heavy_minus_sign"
+            },
+            {
+                "code": "2797",
+                "name": "heavy_division_sign"
+            },
+            {
+                "code": "27B0",
+                "name": "curly_loop"
+            },
+            {
+                "code": "27BF",
+                "name": "loop"
+            },
+            {
+                "code": "303D-FE0F",
+                "name": "part_alternation_mark"
+            },
+            {
+                "code": "2733-FE0F",
+                "name": "eight_spoked_asterisk"
+            },
+            {
+                "code": "2734-FE0F",
+                "name": "eight_pointed_black_star"
+            },
+            {
+                "code": "2747-FE0F",
+                "name": "sparkle"
+            },
+            {
+                "code": "203C-FE0F",
+                "name": "bangbang"
+            },
+            {
+                "code": "2049-FE0F",
+                "name": "interrobang"
+            },
+            {
+                "code": "2753",
+                "name": "question"
+            },
+            {
+                "code": "2754",
+                "name": "grey_question"
+            },
+            {
+                "code": "2755",
+                "name": "grey_exclamation"
+            },
+            {
+                "code": "2757",
+                "name": "exclamation"
+            },
+            {
+                "code": "3030-FE0F",
+                "name": "wavy_dash"
+            },
+            {
+                "code": "00A9-FE0F",
+                "name": "copyright"
+            },
+            {
+                "code": "00AE-FE0F",
+                "name": "registered"
+            },
+            {
+                "code": "2122-FE0F",
+                "name": "tm"
+            },
+            {
+                "code": "0023-FE0F-20E3",
+                "name": "hash"
+            },
+            {
+                "code": "002A-FE0F-20E3",
+                "name": "keycap_star"
+            },
+            {
+                "code": "0030-FE0F-20E3",
+                "name": "zero"
+            },
+            {
+                "code": "0031-FE0F-20E3",
+                "name": "one"
+            },
+            {
+                "code": "0032-FE0F-20E3",
+                "name": "two"
+            },
+            {
+                "code": "0033-FE0F-20E3",
+                "name": "three"
+            },
+            {
+                "code": "0034-FE0F-20E3",
+                "name": "four"
+            },
+            {
+                "code": "0035-FE0F-20E3",
+                "name": "five"
+            },
+            {
+                "code": "0036-FE0F-20E3",
+                "name": "six"
+            },
+            {
+                "code": "0037-FE0F-20E3",
+                "name": "seven"
+            },
+            {
+                "code": "0038-FE0F-20E3",
+                "name": "eight"
+            },
+            {
+                "code": "0039-FE0F-20E3",
+                "name": "nine"
+            },
+            {
+                "code": "1F51F",
+                "name": "keycap_ten"
+            },
+            {
+                "code": "1F4AF",
+                "name": "100"
+            },
+            {
+                "code": "1F520",
+                "name": "capital_abcd"
+            },
+            {
+                "code": "1F521",
+                "name": "abcd"
+            },
+            {
+                "code": "1F522",
+                "name": "1234"
+            },
+            {
+                "code": "1F523",
+                "name": "symbols"
+            },
+            {
+                "code": "1F524",
+                "name": "abc"
+            },
+            {
+                "code": "1F170-FE0F",
+                "name": "a"
+            },
+            {
+                "code": "1F18E",
+                "name": "ab"
+            },
+            {
+                "code": "1F171-FE0F",
+                "name": "b"
+            },
+            {
+                "code": "1F191",
+                "name": "cl"
+            },
+            {
+                "code": "1F192",
+                "name": "cool"
+            },
+            {
+                "code": "1F193",
+                "name": "free"
+            },
+            {
+                "code": "2139-FE0F",
+                "name": "information_source"
+            },
+            {
+                "code": "1F194",
+                "name": "id"
+            },
+            {
+                "code": "24C2-FE0F",
+                "name": "m"
+            },
+            {
+                "code": "1F195",
+                "name": "new"
+            },
+            {
+                "code": "1F196",
+                "name": "ng"
+            },
+            {
+                "code": "1F17E-FE0F",
+                "name": "o2"
+            },
+            {
+                "code": "1F197",
+                "name": "ok"
+            },
+            {
+                "code": "1F17F-FE0F",
+                "name": "parking"
+            },
+            {
+                "code": "1F198",
+                "name": "sos"
+            },
+            {
+                "code": "1F199",
+                "name": "up"
+            },
+            {
+                "code": "1F19A",
+                "name": "vs"
+            },
+            {
+                "code": "1F201",
+                "name": "koko"
+            },
+            {
+                "code": "1F202-FE0F",
+                "name": "sa"
+            },
+            {
+                "code": "1F237-FE0F",
+                "name": "u6708"
+            },
+            {
+                "code": "1F236-FE0F",
+                "name": "u6709"
+            },
+            {
+                "code": "1F22F",
+                "name": "u6307"
+            },
+            {
+                "code": "1F250-FE0F",
+                "name": "ideograph_advantage"
+            },
+            {
+                "code": "1F239-FE0F",
+                "name": "u5272"
+            },
+            {
+                "code": "1F21A",
+                "name": "u7121"
+            },
+            {
+                "code": "1F232-FE0F",
+                "name": "u7981"
+            },
+            {
+                "code": "1F251-FE0F",
+                "name": "accept"
+            },
+            {
+                "code": "1F238-FE0F",
+                "name": "u7533"
+            },
+            {
+                "code": "1F234-FE0F",
+                "name": "u5408"
+            },
+            {
+                "code": "1F233",
+                "name": "u7a7a"
+            },
+            {
+                "code": "3297-FE0F",
+                "name": "congratulations"
+            },
+            {
+                "code": "3299-FE0F",
+                "name": "secret"
+            },
+            {
+                "code": "1F23A-FE0F",
+                "name": "u55b6"
+            },
+            {
+                "code": "1F235-FE0F",
+                "name": "u6e80"
+            },
+            {
+                "code": "25AA-FE0F",
+                "name": "black_small_square"
+            },
+            {
+                "code": "25AB-FE0F",
+                "name": "white_small_square"
+            },
+            {
+                "code": "25FB-FE0F",
+                "name": "white_medium_square"
+            },
+            {
+                "code": "25FC-FE0F",
+                "name": "black_medium_square"
+            },
+            {
+                "code": "25FD",
+                "name": "white_medium_small_square"
+            },
+            {
+                "code": "25FE",
+                "name": "black_medium_small_square"
+            },
+            {
+                "code": "2B1B",
+                "name": "black_large_square"
+            },
+            {
+                "code": "2B1C",
+                "name": "white_large_square"
+            },
+            {
+                "code": "1F536",
+                "name": "large_orange_diamond"
+            },
+            {
+                "code": "1F537",
+                "name": "large_blue_diamond"
+            },
+            {
+                "code": "1F538",
+                "name": "small_orange_diamond"
+            },
+            {
+                "code": "1F539",
+                "name": "small_blue_diamond"
+            },
+            {
+                "code": "1F53A",
+                "name": "small_red_triangle"
+            },
+            {
+                "code": "1F53B",
+                "name": "small_red_triangle_down"
+            },
+            {
+                "code": "1F4A0",
+                "name": "diamond_shape_with_a_dot_inside"
+            },
+            {
+                "code": "1F518",
+                "name": "radio_button"
+            },
+            {
+                "code": "1F532",
+                "name": "black_square_button"
+            },
+            {
+                "code": "1F533",
+                "name": "white_square_button"
+            },
+            {
+                "code": "26AA",
+                "name": "white_circle"
+            },
+            {
+                "code": "26AB",
+                "name": "black_circle"
+            },
+            {
+                "code": "1F534",
+                "name": "red_circle"
+            },
+            {
+                "code": "1F535",
+                "name": "large_blue_circle"
+            }
+        ]
+    },
+    {
+        "category": "flags",
+        "emoji": [
+            {
+                "code": "1F3C1",
+                "name": "checkered_flag"
+            },
+            {
+                "code": "1F6A9",
+                "name": "triangular_flag_on_post"
+            },
+            {
+                "code": "1F3F4",
+                "name": "waving_black_flag"
+            },
+            {
+                "code": "1F3F3-FE0F",
+                "name": "waving_white_flag"
+            },
+            {
+                "code": "1F3F3-FE0F-200D-1F308",
+                "name": "rainbow-flag"
+            },
+            {
+                "code": "1F3F4-200D-2620-FE0F",
+                "name": "pirate_flag"
+            },
+            {
+                "code": "1F1E6-1F1FD",
+                "name": "flag-ax"
+            },
+            {
+                "code": "1F1E6-1F1F1",
+                "name": "flag-al"
+            },
+            {
+                "code": "1F1E9-1F1FF",
+                "name": "flag-dz"
+            },
+            {
+                "code": "1F1E6-1F1F8",
+                "name": "flag-as"
+            },
+            {
+                "code": "1F1E6-1F1E9",
+                "name": "flag-ad"
+            },
+            {
+                "code": "1F1E6-1F1F4",
+                "name": "flag-ao"
+            },
+            {
+                "code": "1F1E6-1F1EE",
+                "name": "flag-ai"
+            },
+            {
+                "code": "1F1E6-1F1F6",
+                "name": "flag-aq"
+            },
+            {
+                "code": "1F1E6-1F1EC",
+                "name": "flag-ag"
+            },
+            {
+                "code": "1F1E6-1F1F7",
+                "name": "flag-ar"
+            },
+            {
+                "code": "1F1E6-1F1F2",
+                "name": "flag-am"
+            },
+            {
+                "code": "1F1E6-1F1FC",
+                "name": "flag-aw"
+            },
+            {
+                "code": "1F1E6-1F1FA",
+                "name": "flag-au"
+            },
+            {
+                "code": "1F1E6-1F1F9",
+                "name": "flag-at"
+            },
+            {
+                "code": "1F1E6-1F1FF",
+                "name": "flag-az"
+            },
+            {
+                "code": "1F1E7-1F1F8",
+                "name": "flag-bs"
+            },
+            {
+                "code": "1F1E7-1F1ED",
+                "name": "flag-bh"
+            },
+            {
+                "code": "1F1E7-1F1E9",
+                "name": "flag-bd"
+            },
+            {
+                "code": "1F1E7-1F1E7",
+                "name": "flag-bb"
+            },
+            {
+                "code": "1F1E7-1F1FE",
+                "name": "flag-by"
+            },
+            {
+                "code": "1F1E7-1F1EA",
+                "name": "flag-be"
+            },
+            {
+                "code": "1F1E7-1F1FF",
+                "name": "flag-bz"
+            },
+            {
+                "code": "1F1E7-1F1EF",
+                "name": "flag-bj"
+            },
+            {
+                "code": "1F1E7-1F1F2",
+                "name": "flag-bm"
+            },
+            {
+                "code": "1F1E7-1F1F9",
+                "name": "flag-bt"
+            },
+            {
+                "code": "1F1E7-1F1F4",
+                "name": "flag-bo"
+            },
+            {
+                "code": "1F1E7-1F1E6",
+                "name": "flag-ba"
+            },
+            {
+                "code": "1F1E7-1F1FC",
+                "name": "flag-bw"
+            },
+            {
+                "code": "1F1E7-1F1F7",
+                "name": "flag-br"
+            },
+            {
+                "code": "1F1EE-1F1F4",
+                "name": "flag-io"
+            },
+            {
+                "code": "1F1FB-1F1EC",
+                "name": "flag-vg"
+            },
+            {
+                "code": "1F1E7-1F1F3",
+                "name": "flag-bn"
+            },
+            {
+                "code": "1F1E7-1F1EC",
+                "name": "flag-bg"
+            },
+            {
+                "code": "1F1E7-1F1EB",
+                "name": "flag-bf"
+            },
+            {
+                "code": "1F1E7-1F1EE",
+                "name": "flag-bi"
+            },
+            {
+                "code": "1F1F0-1F1ED",
+                "name": "flag-kh"
+            },
+            {
+                "code": "1F1E8-1F1F2",
+                "name": "flag-cm"
+            },
+            {
+                "code": "1F1E8-1F1E6",
+                "name": "flag-ca"
+            },
+            {
+                "code": "1F1EE-1F1E8",
+                "name": "flag-ic"
+            },
+            {
+                "code": "1F1E8-1F1FB",
+                "name": "flag-cv"
+            },
+            {
+                "code": "1F1E7-1F1F6",
+                "name": "flag-bq"
+            },
+            {
+                "code": "1F1F0-1F1FE",
+                "name": "flag-ky"
+            },
+            {
+                "code": "1F1E8-1F1EB",
+                "name": "flag-cf"
+            },
+            {
+                "code": "1F1F9-1F1E9",
+                "name": "flag-td"
+            },
+            {
+                "code": "1F1E8-1F1F1",
+                "name": "flag-cl"
+            },
+            {
+                "code": "1F1E8-1F1F3",
+                "name": "flag-cn"
+            },
+            {
+                "code": "1F1E8-1F1FD",
+                "name": "flag-cx"
+            },
+            {
+                "code": "1F1E8-1F1E8",
+                "name": "flag-cc"
+            },
+            {
+                "code": "1F1E8-1F1F4",
+                "name": "flag-co"
+            },
+            {
+                "code": "1F1F0-1F1F2",
+                "name": "flag-km"
+            },
+            {
+                "code": "1F1E8-1F1EC",
+                "name": "flag-cg"
+            },
+            {
+                "code": "1F1E8-1F1E9",
+                "name": "flag-cd"
+            },
+            {
+                "code": "1F1E8-1F1F0",
+                "name": "flag-ck"
+            },
+            {
+                "code": "1F1E8-1F1F7",
+                "name": "flag-cr"
+            },
+            {
+                "code": "1F1E8-1F1EE",
+                "name": "flag-ci"
+            },
+            {
+                "code": "1F1ED-1F1F7",
+                "name": "flag-hr"
+            },
+            {
+                "code": "1F1E8-1F1FA",
+                "name": "flag-cu"
+            },
+            {
+                "code": "1F1E8-1F1FC",
+                "name": "flag-cw"
+            },
+            {
+                "code": "1F1E8-1F1FE",
+                "name": "flag-cy"
+            },
+            {
+                "code": "1F1E8-1F1FF",
+                "name": "flag-cz"
+            },
+            {
+                "code": "1F1E9-1F1F0",
+                "name": "flag-dk"
+            },
+            {
+                "code": "1F1E9-1F1EF",
+                "name": "flag-dj"
+            },
+            {
+                "code": "1F1E9-1F1F2",
+                "name": "flag-dm"
+            },
+            {
+                "code": "1F1E9-1F1F4",
+                "name": "flag-do"
+            },
+            {
+                "code": "1F1EA-1F1E8",
+                "name": "flag-ec"
+            },
+            {
+                "code": "1F1EA-1F1EC",
+                "name": "flag-eg"
+            },
+            {
+                "code": "1F1F8-1F1FB",
+                "name": "flag-sv"
+            },
+            {
+                "code": "1F1EC-1F1F6",
+                "name": "flag-gq"
+            },
+            {
+                "code": "1F1EA-1F1F7",
+                "name": "flag-er"
+            },
+            {
+                "code": "1F1EA-1F1EA",
+                "name": "flag-ee"
+            },
+            {
+                "code": "1F1EA-1F1F9",
+                "name": "flag-et"
+            },
+            {
+                "code": "1F1EA-1F1FA",
+                "name": "flag-eu"
+            },
+            {
+                "code": "1F1EB-1F1F0",
+                "name": "flag-fk"
+            },
+            {
+                "code": "1F1EB-1F1F4",
+                "name": "flag-fo"
+            },
+            {
+                "code": "1F1EB-1F1EF",
+                "name": "flag-fj"
+            },
+            {
+                "code": "1F1EB-1F1EE",
+                "name": "flag-fi"
+            },
+            {
+                "code": "1F1EB-1F1F7",
+                "name": "flag-fr"
+            },
+            {
+                "code": "1F1EC-1F1EB",
+                "name": "flag-gf"
+            },
+            {
+                "code": "1F1F5-1F1EB",
+                "name": "flag-pf"
+            },
+            {
+                "code": "1F1F9-1F1EB",
+                "name": "flag-tf"
+            },
+            {
+                "code": "1F1EC-1F1E6",
+                "name": "flag-ga"
+            },
+            {
+                "code": "1F1EC-1F1F2",
+                "name": "flag-gm"
+            },
+            {
+                "code": "1F1EC-1F1EA",
+                "name": "flag-ge"
+            },
+            {
+                "code": "1F1E9-1F1EA",
+                "name": "flag-de"
+            },
+            {
+                "code": "1F1EC-1F1ED",
+                "name": "flag-gh"
+            },
+            {
+                "code": "1F1EC-1F1EE",
+                "name": "flag-gi"
+            },
+            {
+                "code": "1F1EC-1F1F7",
+                "name": "flag-gr"
+            },
+            {
+                "code": "1F1EC-1F1F1",
+                "name": "flag-gl"
+            },
+            {
+                "code": "1F1EC-1F1E9",
+                "name": "flag-gd"
+            },
+            {
+                "code": "1F1EC-1F1F5",
+                "name": "flag-gp"
+            },
+            {
+                "code": "1F1EC-1F1FA",
+                "name": "flag-gu"
+            },
+            {
+                "code": "1F1EC-1F1F9",
+                "name": "flag-gt"
+            },
+            {
+                "code": "1F1EC-1F1EC",
+                "name": "flag-gg"
+            },
+            {
+                "code": "1F1EC-1F1F3",
+                "name": "flag-gn"
+            },
+            {
+                "code": "1F1EC-1F1FC",
+                "name": "flag-gw"
+            },
+            {
+                "code": "1F1EC-1F1FE",
+                "name": "flag-gy"
+            },
+            {
+                "code": "1F1ED-1F1F9",
+                "name": "flag-ht"
+            },
+            {
+                "code": "1F1ED-1F1F3",
+                "name": "flag-hn"
+            },
+            {
+                "code": "1F1ED-1F1F0",
+                "name": "flag-hk"
+            },
+            {
+                "code": "1F1ED-1F1FA",
+                "name": "flag-hu"
+            },
+            {
+                "code": "1F1EE-1F1F8",
+                "name": "flag-is"
+            },
+            {
+                "code": "1F1EE-1F1F3",
+                "name": "flag-in"
+            },
+            {
+                "code": "1F1EE-1F1E9",
+                "name": "flag-id"
+            },
+            {
+                "code": "1F1EE-1F1F7",
+                "name": "flag-ir"
+            },
+            {
+                "code": "1F1EE-1F1F6",
+                "name": "flag-iq"
+            },
+            {
+                "code": "1F1EE-1F1EA",
+                "name": "flag-ie"
+            },
+            {
+                "code": "1F1EE-1F1F2",
+                "name": "flag-im"
+            },
+            {
+                "code": "1F1EE-1F1F1",
+                "name": "flag-il"
+            },
+            {
+                "code": "1F1EE-1F1F9",
+                "name": "flag-it"
+            },
+            {
+                "code": "1F1EF-1F1F2",
+                "name": "flag-jm"
+            },
+            {
+                "code": "1F1EF-1F1F5",
+                "name": "flag-jp"
+            },
+            {
+                "code": "1F1EF-1F1EA",
+                "name": "flag-je"
+            },
+            {
+                "code": "1F1EF-1F1F4",
+                "name": "flag-jo"
+            },
+            {
+                "code": "1F1F0-1F1FF",
+                "name": "flag-kz"
+            },
+            {
+                "code": "1F1F0-1F1EA",
+                "name": "flag-ke"
+            },
+            {
+                "code": "1F38C",
+                "name": "crossed_flags"
+            },
+            {
+                "code": "1F1FD-1F1F0",
+                "name": "flag-xk"
+            },
+            {
+                "code": "1F1F0-1F1FC",
+                "name": "flag-kw"
+            },
+            {
+                "code": "1F1F0-1F1EC",
+                "name": "flag-kg"
+            },
+            {
+                "code": "1F1F1-1F1E6",
+                "name": "flag-la"
+            },
+            {
+                "code": "1F1F1-1F1FB",
+                "name": "flag-lv"
+            },
+            {
+                "code": "1F1F1-1F1E7",
+                "name": "flag-lb"
+            },
+            {
+                "code": "1F1F1-1F1F8",
+                "name": "flag-ls"
+            },
+            {
+                "code": "1F1F1-1F1F7",
+                "name": "flag-lr"
+            },
+            {
+                "code": "1F1F1-1F1FE",
+                "name": "flag-ly"
+            },
+            {
+                "code": "1F1F1-1F1EE",
+                "name": "flag-li"
+            },
+            {
+                "code": "1F1F1-1F1F9",
+                "name": "flag-lt"
+            },
+            {
+                "code": "1F1F1-1F1FA",
+                "name": "flag-lu"
+            },
+            {
+                "code": "1F1F2-1F1F4",
+                "name": "flag-mo"
+            },
+            {
+                "code": "1F1F2-1F1F0",
+                "name": "flag-mk"
+            },
+            {
+                "code": "1F1F2-1F1EC",
+                "name": "flag-mg"
+            },
+            {
+                "code": "1F1F2-1F1FC",
+                "name": "flag-mw"
+            },
+            {
+                "code": "1F1F2-1F1FE",
+                "name": "flag-my"
+            },
+            {
+                "code": "1F1F2-1F1FB",
+                "name": "flag-mv"
+            },
+            {
+                "code": "1F1F2-1F1F1",
+                "name": "flag-ml"
+            },
+            {
+                "code": "1F1F2-1F1F9",
+                "name": "flag-mt"
+            },
+            {
+                "code": "1F1F2-1F1ED",
+                "name": "flag-mh"
+            },
+            {
+                "code": "1F1F2-1F1F6",
+                "name": "flag-mq"
+            },
+            {
+                "code": "1F1F2-1F1F7",
+                "name": "flag-mr"
+            },
+            {
+                "code": "1F1F2-1F1FA",
+                "name": "flag-mu"
+            },
+            {
+                "code": "1F1FE-1F1F9",
+                "name": "flag-yt"
+            },
+            {
+                "code": "1F1F2-1F1FD",
+                "name": "flag-mx"
+            },
+            {
+                "code": "1F1EB-1F1F2",
+                "name": "flag-fm"
+            },
+            {
+                "code": "1F1F2-1F1E9",
+                "name": "flag-md"
+            },
+            {
+                "code": "1F1F2-1F1E8",
+                "name": "flag-mc"
+            },
+            {
+                "code": "1F1F2-1F1F3",
+                "name": "flag-mn"
+            },
+            {
+                "code": "1F1F2-1F1EA",
+                "name": "flag-me"
+            },
+            {
+                "code": "1F1F2-1F1F8",
+                "name": "flag-ms"
+            },
+            {
+                "code": "1F1F2-1F1E6",
+                "name": "flag-ma"
+            },
+            {
+                "code": "1F1F2-1F1FF",
+                "name": "flag-mz"
+            },
+            {
+                "code": "1F1F2-1F1F2",
+                "name": "flag-mm"
+            },
+            {
+                "code": "1F1F3-1F1E6",
+                "name": "flag-na"
+            },
+            {
+                "code": "1F1F3-1F1F7",
+                "name": "flag-nr"
+            },
+            {
+                "code": "1F1F3-1F1F5",
+                "name": "flag-np"
+            },
+            {
+                "code": "1F1F3-1F1F1",
+                "name": "flag-nl"
+            },
+            {
+                "code": "1F1F3-1F1E8",
+                "name": "flag-nc"
+            },
+            {
+                "code": "1F1F3-1F1FF",
+                "name": "flag-nz"
+            },
+            {
+                "code": "1F1F3-1F1EE",
+                "name": "flag-ni"
+            },
+            {
+                "code": "1F1F3-1F1EA",
+                "name": "flag-ne"
+            },
+            {
+                "code": "1F1F3-1F1EC",
+                "name": "flag-ng"
+            },
+            {
+                "code": "1F1F3-1F1FA",
+                "name": "flag-nu"
+            },
+            {
+                "code": "1F1F3-1F1EB",
+                "name": "flag-nf"
+            },
+            {
+                "code": "1F1F0-1F1F5",
+                "name": "flag-kp"
+            },
+            {
+                "code": "1F1F2-1F1F5",
+                "name": "flag-mp"
+            },
+            {
+                "code": "1F1F3-1F1F4",
+                "name": "flag-no"
+            },
+            {
+                "code": "1F1F4-1F1F2",
+                "name": "flag-om"
+            },
+            {
+                "code": "1F1F5-1F1F0",
+                "name": "flag-pk"
+            },
+            {
+                "code": "1F1F5-1F1FC",
+                "name": "flag-pw"
+            },
+            {
+                "code": "1F1F5-1F1F8",
+                "name": "flag-ps"
+            },
+            {
+                "code": "1F1F5-1F1E6",
+                "name": "flag-pa"
+            },
+            {
+                "code": "1F1F5-1F1EC",
+                "name": "flag-pg"
+            },
+            {
+                "code": "1F1F5-1F1FE",
+                "name": "flag-py"
+            },
+            {
+                "code": "1F1F5-1F1EA",
+                "name": "flag-pe"
+            },
+            {
+                "code": "1F1F5-1F1ED",
+                "name": "flag-ph"
+            },
+            {
+                "code": "1F1F5-1F1F3",
+                "name": "flag-pn"
+            },
+            {
+                "code": "1F1F5-1F1F1",
+                "name": "flag-pl"
+            },
+            {
+                "code": "1F1F5-1F1F9",
+                "name": "flag-pt"
+            },
+            {
+                "code": "1F1F5-1F1F7",
+                "name": "flag-pr"
+            },
+            {
+                "code": "1F1F6-1F1E6",
+                "name": "flag-qa"
+            },
+            {
+                "code": "1F1F7-1F1EA",
+                "name": "flag-re"
+            },
+            {
+                "code": "1F1F7-1F1F4",
+                "name": "flag-ro"
+            },
+            {
+                "code": "1F1F7-1F1FA",
+                "name": "flag-ru"
+            },
+            {
+                "code": "1F1F7-1F1FC",
+                "name": "flag-rw"
+            },
+            {
+                "code": "1F1FC-1F1F8",
+                "name": "flag-ws"
+            },
+            {
+                "code": "1F1F8-1F1F2",
+                "name": "flag-sm"
+            },
+            {
+                "code": "1F1F8-1F1F9",
+                "name": "flag-st"
+            },
+            {
+                "code": "1F1F8-1F1E6",
+                "name": "flag-sa"
+            },
+            {
+                "code": "1F1F8-1F1F3",
+                "name": "flag-sn"
+            },
+            {
+                "code": "1F1F7-1F1F8",
+                "name": "flag-rs"
+            },
+            {
+                "code": "1F1F8-1F1E8",
+                "name": "flag-sc"
+            },
+            {
+                "code": "1F1F8-1F1F1",
+                "name": "flag-sl"
+            },
+            {
+                "code": "1F1F8-1F1EC",
+                "name": "flag-sg"
+            },
+            {
+                "code": "1F1F8-1F1FD",
+                "name": "flag-sx"
+            },
+            {
+                "code": "1F1F8-1F1F0",
+                "name": "flag-sk"
+            },
+            {
+                "code": "1F1F8-1F1EE",
+                "name": "flag-si"
+            },
+            {
+                "code": "1F1EC-1F1F8",
+                "name": "flag-gs"
+            },
+            {
+                "code": "1F1F8-1F1E7",
+                "name": "flag-sb"
+            },
+            {
+                "code": "1F1F8-1F1F4",
+                "name": "flag-so"
+            },
+            {
+                "code": "1F1FF-1F1E6",
+                "name": "flag-za"
+            },
+            {
+                "code": "1F1F0-1F1F7",
+                "name": "flag-kr"
+            },
+            {
+                "code": "1F1F8-1F1F8",
+                "name": "flag-ss"
+            },
+            {
+                "code": "1F1EA-1F1F8",
+                "name": "flag-es"
+            },
+            {
+                "code": "1F1F1-1F1F0",
+                "name": "flag-lk"
+            },
+            {
+                "code": "1F1E7-1F1F1",
+                "name": "flag-bl"
+            },
+            {
+                "code": "1F1F8-1F1ED",
+                "name": "flag-sh"
+            },
+            {
+                "code": "1F1F0-1F1F3",
+                "name": "flag-kn"
+            },
+            {
+                "code": "1F1F1-1F1E8",
+                "name": "flag-lc"
+            },
+            {
+                "code": "1F1F5-1F1F2",
+                "name": "flag-pm"
+            },
+            {
+                "code": "1F1FB-1F1E8",
+                "name": "flag-vc"
+            },
+            {
+                "code": "1F1F8-1F1E9",
+                "name": "flag-sd"
+            },
+            {
+                "code": "1F1F8-1F1F7",
+                "name": "flag-sr"
+            },
+            {
+                "code": "1F1F8-1F1FF",
+                "name": "flag-sz"
+            },
+            {
+                "code": "1F1F8-1F1EA",
+                "name": "flag-se"
+            },
+            {
+                "code": "1F1E8-1F1ED",
+                "name": "flag-ch"
+            },
+            {
+                "code": "1F1F8-1F1FE",
+                "name": "flag-sy"
+            },
+            {
+                "code": "1F1F9-1F1FC",
+                "name": "flag-tw"
+            },
+            {
+                "code": "1F1F9-1F1EF",
+                "name": "flag-tj"
+            },
+            {
+                "code": "1F1F9-1F1FF",
+                "name": "flag-tz"
+            },
+            {
+                "code": "1F1F9-1F1ED",
+                "name": "flag-th"
+            },
+            {
+                "code": "1F1F9-1F1F1",
+                "name": "flag-tl"
+            },
+            {
+                "code": "1F1F9-1F1EC",
+                "name": "flag-tg"
+            },
+            {
+                "code": "1F1F9-1F1F0",
+                "name": "flag-tk"
+            },
+            {
+                "code": "1F1F9-1F1F4",
+                "name": "flag-to"
+            },
+            {
+                "code": "1F1F9-1F1F9",
+                "name": "flag-tt"
+            },
+            {
+                "code": "1F1F9-1F1F3",
+                "name": "flag-tn"
+            },
+            {
+                "code": "1F1F9-1F1F7",
+                "name": "flag-tr"
+            },
+            {
+                "code": "1F1F9-1F1F2",
+                "name": "flag-tm"
+            },
+            {
+                "code": "1F1F9-1F1E8",
+                "name": "flag-tc"
+            },
+            {
+                "code": "1F1F9-1F1FB",
+                "name": "flag-tv"
+            },
+            {
+                "code": "1F1FB-1F1EE",
+                "name": "flag-vi"
+            },
+            {
+                "code": "1F1FA-1F1EC",
+                "name": "flag-ug"
+            },
+            {
+                "code": "1F1FA-1F1E6",
+                "name": "flag-ua"
+            },
+            {
+                "code": "1F1E6-1F1EA",
+                "name": "flag-ae"
+            },
+            {
+                "code": "1F1EC-1F1E7",
+                "name": "flag-gb"
+            },
+            {
+                "code": "1F1FA-1F1F8",
+                "name": "flag-us"
+            },
+            {
+                "code": "1F1FA-1F1FE",
+                "name": "flag-uy"
+            },
+            {
+                "code": "1F1FA-1F1FF",
+                "name": "flag-uz"
+            },
+            {
+                "code": "1F1FB-1F1FA",
+                "name": "flag-vu"
+            },
+            {
+                "code": "1F1FB-1F1E6",
+                "name": "flag-va"
+            },
+            {
+                "code": "1F1FB-1F1EA",
+                "name": "flag-ve"
+            },
+            {
+                "code": "1F1FB-1F1F3",
+                "name": "flag-vn"
+            },
+            {
+                "code": "1F1FC-1F1EB",
+                "name": "flag-wf"
+            },
+            {
+                "code": "1F1EA-1F1ED",
+                "name": "flag-eh"
+            },
+            {
+                "code": "1F1FE-1F1EA",
+                "name": "flag-ye"
+            },
+            {
+                "code": "1F1FF-1F1F2",
+                "name": "flag-zm"
+            },
+            {
+                "code": "1F1FF-1F1FC",
+                "name": "flag-zw"
+            },
+            {
+                "code": "1F1FA-1F1F3",
+                "name": "flag-un"
+            }
+        ]
+    }
+]
